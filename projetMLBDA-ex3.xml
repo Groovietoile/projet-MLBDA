@@ -1,0 +1,2900 @@
+<ex3>
+  <continent name="Africa">
+    <country name="Algeria" population="29183032" blength="">
+      <province name="Algeria">
+        <mountain name="Tahat" altitude="3003" latitude="23.3" longitude="5.5"/>
+      </province>
+    </country>
+    <country name="Libya" population="5445436" blength="4383">
+      <province name="Libya"/>
+    </country>
+    <country name="Mali" population="9653261" blength="7243">
+      <province name="Mali"/>
+    </country>
+    <country name="Mauritania" population="2336048" blength="5074">
+      <province name="Mauritania"/>
+    </country>
+    <country name="Morocco" population="29779156" blength="2002">
+      <organization name="Arab Maghreb Union" establishedDate="17-FEB-89"/>
+      <province name="Morocco">
+        <mountain name="Tubkhal" altitude="4165" latitude="31" longitude="-8"/>
+      </province>
+    </country>
+    <country name="Niger" population="9113001" blength="5697">
+      <province name="Niger">
+        <mountain name="Mont Greboun" altitude="1944" latitude="20" longitude="9"/>
+      </province>
+    </country>
+    <country name="Tunisia" population="9019687" blength="">
+      <province name="Tunisia"/>
+    </country>
+    <country name="Western Sahara" population="222631" blength="">
+      <province name="Western Sahara"/>
+    </country>
+    <country name="Angola" population="10342899" blength="">
+      <province name="Bengo"/>
+      <province name="Benguela"/>
+      <province name="Bie"/>
+      <province name="Cabinda"/>
+      <province name="Cuando Cubango"/>
+      <province name="Cuanza Norte"/>
+      <province name="Cuanza Sul"/>
+      <province name="Cunene"/>
+      <province name="Huambo"/>
+      <province name="Huila"/>
+      <province name="Luanda"/>
+      <province name="Lunda Norte"/>
+      <province name="Lunda Sul"/>
+      <province name="Malanje"/>
+      <province name="Moxico"/>
+      <province name="Namibe"/>
+      <province name="Uige"/>
+      <province name="Zaire"/>
+      <river name="Cuango"/>
+      <river name="Cuilo"/>
+      <river name="Cuango"/>
+      <river name="Kasai"/>
+    </country>
+    <country name="Congo" population="2527841" blength="5504">
+      <organization name="Central African States Development Bank" establishedDate="03-DEC-75"/>
+      <province name="Congo"/>
+    </country>
+    <country name="Namibia" population="1677243" blength="3824">
+      <province name="Namibia"/>
+    </country>
+    <country name="Zaire" population="46498539" blength="">
+      <province name="Bandundu"/>
+      <province name="Bas Zaire"/>
+      <province name="Equateur"/>
+      <province name="Haut Zaire"/>
+      <province name="Kasai Occidental"/>
+      <province name="Kasai Oriental"/>
+      <province name="Kinshasa"/>
+      <province name="Kivu">
+        <mountain name="Ruwenzori" altitude="5109" latitude=".4" longitude="29.9"/>
+      </province>
+      <province name="Shaba/Katanga"/>
+      <river name="Fimi"/>
+      <river name="Kwa"/>
+      <river name="Busira"/>
+      <river name="Ruki"/>
+      <river name="Ubangi"/>
+      <river name="Aruwimi"/>
+      <river name="Bomu"/>
+      <river name="Uelle"/>
+      <river name="Zaire"/>
+      <river name="Lukenie"/>
+      <river name="Tshuapa"/>
+      <river name="Ruzizi"/>
+      <river name="Semliki"/>
+      <river name="Lomami"/>
+      <river name="Lualaba"/>
+      <river name="Lukuga"/>
+      <river name="Lulua"/>
+      <river name="Luvua"/>
+    </country>
+    <country name="Zambia" population="9159072" blength="5664">
+      <province name="Central"/>
+      <province name="Copperbelt"/>
+      <province name="Eastern"/>
+      <province name="Luapula"/>
+      <province name="Lusaka"/>
+      <province name="Northern"/>
+      <province name="Northwestern"/>
+      <province name="Southern"/>
+      <province name="Western"/>
+      <river name="Luapula"/>
+      <river name="Zambezi"/>
+    </country>
+    <country name="Benin" population="5709529" blength="">
+      <province name="Benin"/>
+    </country>
+    <country name="Burkina Faso" population="10623323" blength="3192">
+      <province name="Burkina Faso"/>
+      <river name="Volta"/>
+    </country>
+    <country name="Nigeria" population="103912489" blength="">
+      <organization name="Economic Community of West African States" establishedDate="28-MAY-75"/>
+      <province name="Nigeria"/>
+    </country>
+    <country name="Togo" population="4570530" blength="">
+      <organization name="West African Development Bank" establishedDate="14-NOV-73"/>
+      <province name="Togo"/>
+    </country>
+    <country name="Botswana" population="1477630" blength="4013">
+      <organization name="Southern African Development Community" establishedDate="17-AUG-92"/>
+      <province name="Botswana"/>
+    </country>
+    <country name="South Africa" population="41743459" blength="4750">
+      <organization name="Southern African Customs Union" establishedDate="11-DEC-69"/>
+      <province name="Eastern Cape"/>
+      <province name="Free State"/>
+      <province name="Gauteng"/>
+      <province name="Kwazulu Natal">
+        <mountain name="Cathkin Peak" altitude="3181" latitude="-29.1" longitude="29.35"/>
+      </province>
+      <province name="Limpopo"/>
+      <province name="Mpumalanga"/>
+      <province name="North West"/>
+      <province name="Northern Cape"/>
+      <province name="Western Cape"/>
+      <river name="Limpopo"/>
+      <river name="Vaal"/>
+    </country>
+    <country name="Zimbabwe" population="11271314" blength="">
+      <province name="Zimbabwe"/>
+    </country>
+    <country name="Cote dIvoire" population="14762445" blength="3110">
+      <organization name="Council of the Entente" establishedDate="29-MAY-59"/>
+      <organization name="African Development Bank" establishedDate="04-AUG-63"/>
+      <province name="Cote dIvoire"/>
+      <river name="Bani"/>
+    </country>
+    <country name="Ghana" population="17698271" blength="2093">
+      <province name="Ghana"/>
+    </country>
+    <country name="Burundi" population="5943057" blength="">
+      <province name="Burundi"/>
+    </country>
+    <country name="Rwanda" population="6853359" blength="893">
+      <province name="Rwanda">
+        <mountain name="Karisimbi" altitude="4507" latitude="-1.5" longitude="29.45"/>
+      </province>
+      <river name="Akagera"/>
+      <river name="Ruzizi"/>
+    </country>
+    <country name="Tanzania" population="29058470" blength="3861">
+      <province name="Arusha">
+        <mountain name="Meru" altitude="4567" latitude="-3.2" longitude="36.8"/>
+      </province>
+      <province name="Daressalam"/>
+      <province name="Dodoma"/>
+      <province name="Iringa"/>
+      <province name="Kagera"/>
+      <province name="Kaskazini Pemba"/>
+      <province name="Kaskazini Ujunga"/>
+      <province name="Kigoma"/>
+      <province name="Kilimanjaro">
+        <mountain name="Kilimanjaro" altitude="5895" latitude="-3.05" longitude="37.35"/>
+      </province>
+      <province name="Kusini Pemba"/>
+      <province name="Kusini Ujunga"/>
+      <province name="Lindi"/>
+      <province name="Mara"/>
+      <province name="Mbeya"/>
+      <province name="Mjini Magharibi"/>
+      <province name="Morogoro"/>
+      <province name="Mtwara"/>
+      <province name="Mwanza"/>
+      <province name="Pwani"/>
+      <province name="Rukwa"/>
+      <province name="Ruvuma"/>
+      <province name="Shinyanga"/>
+      <province name="Singida"/>
+      <province name="Tabora"/>
+      <province name="Tanga"/>
+    </country>
+    <country name="Cameroon" population="14261557" blength="">
+      <province name="Adamaoua"/>
+      <province name="Centre"/>
+      <province name="Cote/Littoral"/>
+      <province name="Est"/>
+      <province name="Nord"/>
+      <province name="Nord extreme"/>
+      <province name="Nordoueste"/>
+      <province name="Ouest"/>
+      <province name="Sud"/>
+      <province name="Sudoueste">
+        <mountain name="Fako" altitude="4095" latitude="4.2" longitude="9.2"/>
+      </province>
+      <river name="Benue"/>
+    </country>
+    <country name="Central African Republic" population="3274426" blength="5203">
+      <organization name="Central African Customs and Economic Union" establishedDate="08-DEC-64"/>
+      <province name="Central African Republic"/>
+      <river name="Bomu"/>
+      <river name="Sanga"/>
+      <river name="Schari"/>
+      <river name="Ubangi"/>
+    </country>
+    <country name="Chad" population="6976845" blength="5968">
+      <province name="Chad">
+        <mountain name="Emi Kussi" altitude="3415" latitude="20" longitude="18.5"/>
+      </province>
+    </country>
+    <country name="Equatorial Guinea" population="431282" blength="">
+      <province name="Equatorial Guinea">
+        <mountain name="Pico Basile" altitude="3011" latitude="3.5" longitude="8.7"/>
+      </province>
+    </country>
+    <country name="Gabon" population="1172798" blength="2551">
+      <organization name="Economic Community of Central African States" establishedDate="18-OCT-83"/>
+      <province name="Gabon"/>
+    </country>
+    <country name="Cape Verde" population="449066" blength="">
+      <province name="Cape Verde">
+        <mountain name="Fogo" altitude="2829" latitude="14.95" longitude="-24.4"/>
+      </province>
+    </country>
+    <country name="Sudan" population="31547543" blength="7687">
+      <organization name="Arab Bank for Economic Development in Africa" establishedDate="18-FEB-74"/>
+      <province name="Aali an Nil"/>
+      <province name="Bahr al Ghazal"/>
+      <province name="Darfur">
+        <mountain name="Jabal Marra" altitude="3088" latitude="13" longitude="24.6"/>
+      </province>
+      <province name="Kurdufan"/>
+      <province name="Nil al Asraq"/>
+      <province name="al Istiwaiyah"/>
+      <province name="al Khartum"/>
+      <province name="ash Shamaliyah"/>
+      <province name="ash Sharqiyah"/>
+      <river name="White Nile"/>
+      <river name="Nile"/>
+    </country>
+    <country name="Comoros" population="569237" blength="">
+      <province name="Comoros"/>
+    </country>
+    <country name="Guinea" population="7411981" blength="3399">
+      <province name="Guinea"/>
+      <river name="Gambia"/>
+      <river name="Niger"/>
+      <river name="Senegal"/>
+    </country>
+    <country name="Liberia" population="2109789" blength="1585">
+      <province name="Liberia"/>
+    </country>
+    <country name="Djibouti" population="427642" blength="">
+      <organization name="Inter-Governmental Authority on Drought and Development" establishedDate="15-JAN-86"/>
+      <province name="Djibouti"/>
+    </country>
+    <country name="Eritrea" population="3427883" blength="1630">
+      <province name="Eritrea"/>
+    </country>
+    <country name="Ethiopia" population="57171662" blength="5311">
+      <organization name="Economic Commission for Africa" establishedDate="29-APR-58"/>
+      <organization name="Organization of African Unity" establishedDate="25-MAY-63"/>
+      <province name="Ethiopia">
+        <mountain name="Ras Daschan Terara" altitude="4533" latitude="13.2" longitude="38.4"/>
+      </province>
+      <river name="Atbara"/>
+      <river name="Blue Nile"/>
+    </country>
+    <country name="Somalia" population="9639151" blength="">
+      <province name="Somalia"/>
+    </country>
+    <country name="Kenya" population="28176686" blength="">
+      <province name="Central"/>
+      <province name="Coast"/>
+      <province name="Eastern">
+        <mountain name="Kenia" altitude="5199" latitude=".15" longitude="37.3"/>
+      </province>
+      <province name="Nairobi"/>
+      <province name="North Eastern"/>
+      <province name="Nyanza"/>
+      <province name="Rift Valley"/>
+      <province name="Western">
+        <mountain name="Elgon" altitude="4321" latitude="1.1" longitude="34.55"/>
+      </province>
+    </country>
+    <country name="Gambia" population="1204984" blength="">
+      <province name="Gambia"/>
+    </country>
+    <country name="Senegal" population="9092749" blength="2640">
+      <province name="Dakar"/>
+      <province name="Diourbel"/>
+      <province name="Fatick"/>
+      <province name="Kaolack"/>
+      <province name="Kolda"/>
+      <province name="Louga"/>
+      <province name="Saint Louis"/>
+      <province name="Tambacounda"/>
+      <province name="Thies"/>
+      <province name="Ziguinchor"/>
+    </country>
+    <country name="Guinea-Bissau" population="1151330" blength="">
+      <province name="Guinea-Bissau"/>
+    </country>
+    <country name="Sierra Leone" population="4793121" blength="">
+      <province name="Sierra Leone"/>
+    </country>
+    <country name="Uganda" population="20158176" blength="2698">
+      <organization name="East African Development Bank" establishedDate="06-JUN-67"/>
+      <province name="Uganda">
+        <mountain name="Ruwenzori" altitude="5109" latitude=".4" longitude="29.9"/>
+      </province>
+      <river name="Bahr el-Djebel/Albert-Nil"/>
+      <river name="Victoria Nile"/>
+    </country>
+    <country name="Lesotho" population="1970781" blength="">
+      <province name="Lesotho">
+        <mountain name="Thabana Ntlenyana" altitude="3482" latitude="-29.5" longitude="29.3"/>
+      </province>
+      <river name="Oranje"/>
+    </country>
+    <country name="Madagascar" population="13670507" blength="">
+      <province name="Antananarivo">
+        <mountain name="Tsiafajavona" altitude="2642" latitude="-19.3" longitude="47.2"/>
+      </province>
+      <province name="Antsiranana">
+        <mountain name="Tsaratanana" altitude="2876" latitude="-14" longitude="48.5"/>
+      </province>
+      <province name="Fianarantsoa">
+        <mountain name="Andringitra" altitude="2658" latitude="-22.5" longitude="47"/>
+      </province>
+      <province name="Mahajanga"/>
+      <province name="Toamasina"/>
+      <province name="Toliara"/>
+    </country>
+    <country name="Malawi" population="9452844" blength="2881">
+      <province name="Malawi"/>
+      <river name="Chire"/>
+    </country>
+    <country name="Mozambique" population="17877927" blength="4571">
+      <province name="Cabo Delgado"/>
+      <province name="Gaza"/>
+      <province name="Inhambane"/>
+      <province name="Manica"/>
+      <province name="Maputo"/>
+      <province name="Maputo (munic.)"/>
+      <province name="Nampula"/>
+      <province name="Niassa"/>
+      <province name="Sofala"/>
+      <province name="Tete"/>
+      <province name="Zambezia"/>
+    </country>
+    <country name="Mauritius" population="1140256" blength="">
+      <province name="Mauritius"/>
+    </country>
+    <country name="Mayotte" population="223765" blength="">
+      <province name="Mayotte"/>
+    </country>
+    <country name="Swaziland" population="998730" blength="">
+      <province name="Swaziland"/>
+    </country>
+    <country name="Sao Tome and Principe" population="144128" blength="">
+      <province name="Sao Tome and Principe">
+        <mountain name="Pico de Sao Tome" altitude="2024" latitude=".2" longitude="6.6"/>
+      </province>
+    </country>
+    <country name="Seychelles" population="77575" blength="">
+      <province name="Seychelles"/>
+    </country>
+    <country name="Egypt" population="63575107" blength="">
+      <organization name="Arab League" establishedDate="22-MAR-45"/>
+      <province name="Aswan"/>
+      <province name="Asyut"/>
+      <province name="Beni Suef"/>
+      <province name="Bur Said (munic.)"/>
+      <province name="Dumyat"/>
+      <province name="El Bahr el Ahmar"/>
+      <province name="El Buhayra"/>
+      <province name="El Daqahliya"/>
+      <province name="El Faiyum"/>
+      <province name="El Gharbiya"/>
+      <province name="El Giza"/>
+      <province name="El Iskandariya"/>
+      <province name="El Minufiya"/>
+      <province name="El Minya"/>
+      <province name="El Qahira"/>
+      <province name="El Qalubiya"/>
+      <province name="El Suweiz"/>
+      <province name="El Wadi el Jadid"/>
+      <province name="Ismailiya"/>
+      <province name="Kafr el Sheikh"/>
+      <province name="Matruh"/>
+      <province name="Qena"/>
+      <province name="Sharqiya"/>
+      <province name="Sina al Janubiyah">
+        <mountain name="Jabal Katrina" altitude="2637" latitude="28.5" longitude="33.95"/>
+      </province>
+      <province name="Sina ash Shamaliyah"/>
+      <province name="Sohag"/>
+    </country>
+  </continent>
+  <continent name="America">
+    <country name="Argentina" population="34672997" blength="9665">
+      <organization name="Southern Cone Common Market" establishedDate="26-MAR-91"/>
+      <province name="Buenos Aires"/>
+      <province name="Catamarca"/>
+      <province name="Chaco"/>
+      <province name="Chubut"/>
+      <province name="Cordoba"/>
+      <province name="Corrientes"/>
+      <province name="Distrito Federal"/>
+      <province name="Entre Rios"/>
+      <province name="Formosa"/>
+      <province name="Jujuy"/>
+      <province name="La Pampa"/>
+      <province name="La Rioja">
+        <mountain name="Monte Pissis" altitude="6795" latitude="-27.8" longitude="-68.85"/>
+      </province>
+      <province name="Mendoza">
+        <mountain name="Aconcagua" altitude="6962" latitude="-32.65" longitude="-70"/>
+      </province>
+      <province name="Misiones"/>
+      <province name="Neuquen"/>
+      <province name="Rio Negro"/>
+      <province name="Salta"/>
+      <province name="San Juan"/>
+      <province name="San Luis"/>
+      <province name="Santa Cruz"/>
+      <province name="Santa Fe"/>
+      <province name="Santiago de Estero"/>
+      <province name="Tierra del Fuego"/>
+      <province name="Tucuman">
+        <mountain name="Ojos del Salado" altitude="6893" latitude="-27.1" longitude="-68.5"/>
+      </province>
+    </country>
+    <country name="Bolivia" population="7165257" blength="">
+      <province name="Bolivia">
+        <mountain name="Sajama" altitude="6542" latitude="-18.1" longitude="-68.9"/>
+      </province>
+      <river name="Rio Desaguadero"/>
+      <river name="Rio Madeira"/>
+      <river name="Rio Mamore"/>
+    </country>
+    <country name="Brazil" population="162661214" blength="14691">
+      <province name="Acre"/>
+      <province name="Alagoas"/>
+      <province name="Amapa"/>
+      <province name="Amazonas"/>
+      <province name="Bahia"/>
+      <province name="Ceara"/>
+      <province name="Distrito Federal"/>
+      <province name="Espirito Santo"/>
+      <province name="Goias"/>
+      <province name="Maranhao"/>
+      <province name="Mato Grosso"/>
+      <province name="Mato Grosso do Sul"/>
+      <province name="Minas Gerais">
+        <mountain name="Pico de Agulhas Negras" altitude="2791" latitude="-22.4" longitude="-44.65"/>
+      </province>
+      <province name="Para"/>
+      <province name="Paraiba"/>
+      <province name="Parana"/>
+      <province name="Pernambuco"/>
+      <province name="Piaui"/>
+      <province name="Rio Grande do Norte"/>
+      <province name="Rio Grande do Sul"/>
+      <province name="Rio de Janeiro">
+        <mountain name="Pico de Agulhas Negras" altitude="2791" latitude="-22.4" longitude="-44.65"/>
+      </province>
+      <province name="Rondonia"/>
+      <province name="Roraima"/>
+      <province name="Santa Catarina"/>
+      <province name="Sao Paulo"/>
+      <province name="Sergipe"/>
+      <province name="Tocantins"/>
+      <river name="Tocantins"/>
+      <river name="Paraguay"/>
+      <river name="Parana"/>
+      <river name="Rio Sao Francisco"/>
+      <river name="Uruguay"/>
+    </country>
+    <country name="Chile" population="14333258" blength="">
+      <organization name="Economic Commission for Latin America and the Caribbean" establishedDate="25-FEB-48"/>
+      <province name="Chile">
+        <mountain name="Ojos del Salado" altitude="6893" latitude="-27.1" longitude="-68.5"/>
+      </province>
+    </country>
+    <country name="Paraguay" population="5504146" blength="3920">
+      <province name="Paraguay"/>
+    </country>
+    <country name="Uruguay" population="3238952" blength="">
+      <organization name="Latin American Integration Association" establishedDate="12-AUG-80"/>
+      <province name="Uruguay"/>
+    </country>
+    <country name="Peru" population="24523408" blength="6940">
+      <organization name="Andean Group" establishedDate="26-MAY-69"/>
+      <province name="Amazonas"/>
+      <province name="Ancash">
+        <mountain name="Huascaran" altitude="6768" latitude="-9" longitude="-77.3"/>
+      </province>
+      <province name="Apurimac"/>
+      <province name="Arequipa">
+        <mountain name="Coropuna" altitude="6425" latitude="-15.5" longitude="-72.65"/>
+      </province>
+      <province name="Ayacucho"/>
+      <province name="Cajamarca"/>
+      <province name="Callao"/>
+      <province name="Cuzco">
+        <mountain name="Ausangate" altitude="6336" latitude="-13.8" longitude="-71.2"/>
+      </province>
+      <province name="Huancavelica"/>
+      <province name="Huanuco"/>
+      <province name="Ica"/>
+      <province name="Junin"/>
+      <province name="La Libertad"/>
+      <province name="Lambayeque"/>
+      <province name="Lima"/>
+      <province name="Loreto"/>
+      <province name="Madre de Dios"/>
+      <province name="Moquegua"/>
+      <province name="Pasco"/>
+      <province name="Piura"/>
+      <province name="Puno"/>
+      <province name="San Martin"/>
+      <province name="Tacna"/>
+      <province name="Tumbes"/>
+      <province name="Ucayali"/>
+      <river name="Amazonas"/>
+    </country>
+    <country name="French Guiana" population="151187" blength="1183">
+      <province name="French Guiana"/>
+    </country>
+    <country name="Guyana" population="712091" blength="2462">
+      <organization name="Caribbean Community and Common Market" establishedDate="04-JUL-73"/>
+      <province name="Guyana"/>
+    </country>
+    <country name="Suriname" population="436418" blength="">
+      <province name="Suriname"/>
+    </country>
+    <country name="Venezuela" population="21983188" blength="">
+      <organization name="Latin American Economic System" establishedDate="17-OCT-75"/>
+      <province name="Amazonas"/>
+      <province name="Anzoategui"/>
+      <province name="Apure"/>
+      <province name="Aragua"/>
+      <province name="Barinas"/>
+      <province name="Bolivar"/>
+      <province name="Carabobo"/>
+      <province name="Cojedes"/>
+      <province name="Delta Amacuro"/>
+      <province name="Distrito Federal"/>
+      <province name="Falcon"/>
+      <province name="Guarico"/>
+      <province name="Lara"/>
+      <province name="Merida">
+        <mountain name="Pico Bolivar" altitude="4981" latitude="8.6" longitude="-71"/>
+      </province>
+      <province name="Miranda"/>
+      <province name="Monagas"/>
+      <province name="Nueva Esparta"/>
+      <province name="Portuguesa"/>
+      <province name="Sucre"/>
+      <province name="Tachira"/>
+      <province name="Trujillo"/>
+      <province name="Yaracuy"/>
+      <province name="Zulia"/>
+      <river name="Orinoco"/>
+    </country>
+    <country name="Ecuador" population="11466291" blength="2010">
+      <province name="Ecuador">
+        <mountain name="Chimborazo" altitude="6287" latitude="-1.2" longitude="-78.5"/>
+      </province>
+    </country>
+    <country name="Falkland Islands" population="3140" blength="">
+      <province name="Falkland Islands"/>
+    </country>
+    <country name="Anguilla" population="14436" blength="">
+      <province name="Anguilla"/>
+    </country>
+    <country name="Antigua and Barbuda" population="65647" blength="">
+      <province name="Antigua and Barbuda"/>
+    </country>
+    <country name="Aruba" population="103065" blength="">
+      <province name="Aruba"/>
+    </country>
+    <country name="Bahamas" population="259367" blength="">
+      <province name="Bahamas"/>
+    </country>
+    <country name="Barbados" population="257030" blength="">
+      <province name="Barbados"/>
+    </country>
+    <country name="Belize" population="219296" blength="">
+      <province name="Belize"/>
+    </country>
+    <country name="Guatemala" population="11277614" blength="1687">
+      <organization name="Central American Common Market" establishedDate="13-DEC-60"/>
+      <province name="Guatemala">
+        <mountain name="Tajumulco" altitude="4220" latitude="15" longitude="-91.9"/>
+      </province>
+    </country>
+    <country name="Mexico" population="95772462" blength="4538">
+      <organization name="Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean" establishedDate="14-FEB-67"/>
+      <province name="Aguascalientes"/>
+      <province name="Baja California"/>
+      <province name="Baja California Sur"/>
+      <province name="Campeche"/>
+      <province name="Chiapas"/>
+      <province name="Chihuahua"/>
+      <province name="Coahuila"/>
+      <province name="Colima"/>
+      <province name="Distrito Federal"/>
+      <province name="Durango"/>
+      <province name="Guanajuato"/>
+      <province name="Guerrero"/>
+      <province name="Hidalgo"/>
+      <province name="Jalisco">
+        <mountain name="Nevado de Colima" altitude="4330" latitude="20" longitude="-104"/>
+      </province>
+      <province name="Mexico, Estado de">
+        <mountain name="Popocatepetl" altitude="5450" latitude="19" longitude="-98"/>
+      </province>
+      <province name="Michoacan"/>
+      <province name="Morelos">
+        <mountain name="Popocatepetl" altitude="5450" latitude="19" longitude="-98"/>
+      </province>
+      <province name="Nayarit"/>
+      <province name="Nuevo Leon"/>
+      <province name="Oaxaca"/>
+      <province name="Puebla">
+        <mountain name="Citlaltepetl (Pico de Orizaba)" altitude="5700" latitude="19" longitude="-97"/>
+      </province>
+      <province name="Queretaro"/>
+      <province name="Quintana Roo"/>
+      <province name="San Luis Potosi"/>
+      <province name="Sinaloa"/>
+      <province name="Sonora"/>
+      <province name="Tabasco"/>
+      <province name="Tamaulipas"/>
+      <province name="Tlaxcala"/>
+      <province name="Veracruz">
+        <mountain name="Citlaltepetl (Pico de Orizaba)" altitude="5700" latitude="19" longitude="-97"/>
+      </province>
+      <province name="Yucatan"/>
+      <province name="Zacatecas"/>
+      <river name="Rio Lerma"/>
+    </country>
+    <country name="British Virgin Islands" population="24491" blength="">
+      <province name="British Virgin Islands"/>
+    </country>
+    <country name="Canada" population="28820671" blength="">
+      <organization name="International Civil Aviation Organization" establishedDate="07-DEC-44"/>
+      <province name="Alberta">
+        <mountain name="Mt Columbia" altitude="3747" latitude="52.15" longitude="-117.44"/>
+      </province>
+      <province name="British Columbia">
+        <mountain name="Mt Fairweather" altitude="4663" latitude="58.9" longitude="-137.5"/>
+      </province>
+      <province name="Manitoba"/>
+      <province name="New Brunswick"/>
+      <province name="Newfoundland"/>
+      <province name="Northwest Territories">
+        <mountain name="Barbeau Peak" altitude="2616" latitude="81.9" longitude="-75"/>
+      </province>
+      <province name="Nova Scotia"/>
+      <province name="Ontario"/>
+      <province name="Prince Edward Island"/>
+      <province name="Quebec">
+        <mountain name="Mt. Babel" altitude="952" latitude="51.45" longitude="-68.7"/>
+      </province>
+      <province name="Saskatchewan">
+        <mountain name="Mt Bona" altitude="5005" latitude="61.4" longitude="-141.75"/>
+      </province>
+      <province name="Yukon Territory">
+        <mountain name="Mt Logan" altitude="5959" latitude="60.6" longitude="-140.4"/>
+      </province>
+      <river name="Saskatchewan River"/>
+      <river name="Columbia River"/>
+      <river name="Nelson River"/>
+      <river name="Mackenzie River"/>
+      <river name="Detroit River"/>
+      <river name="Niagara River"/>
+      <river name="Manicouagan"/>
+      <river name="Riviere Richelieu"/>
+      <river name="Saint Lawrence River"/>
+      <river name="Yukon River"/>
+    </country>
+    <country name="United States" population="266476278" blength="">
+      <organization name="International Monetary Fund" establishedDate="22-JUL-44"/>
+      <organization name="International Bank for Reconstruction and Development" establishedDate="22-JUL-44"/>
+      <organization name="United Nations" establishedDate="26-JUN-45"/>
+      <organization name="Organization of American States" establishedDate="30-APR-48"/>
+      <organization name="United Nations Military Observer Group in India and Pakistan" establishedDate="13-AUG-48"/>
+      <organization name="International Finance Corporation" establishedDate="25-MAY-55"/>
+      <organization name="Inter-American Development Bank" establishedDate="08-APR-59"/>
+      <organization name="International Development Association" establishedDate="26-JAN-60"/>
+      <organization name="United Nations Force in Cyprus" establishedDate="04-MAR-64"/>
+      <organization name="International Telecommunications Satellite Organization" establishedDate="20-AUG-71"/>
+      <organization name="United Nations Interim Force in Lebanon" establishedDate="19-MAR-78"/>
+      <organization name="United Nations Angola Verification Mission" establishedDate="20-DEC-88"/>
+      <organization name="United Nations Iraq-Kuwait Observation Mission" establishedDate="09-APR-91"/>
+      <organization name="United Nations Mission for the Referendum in Western Sahara" establishedDate="29-APR-91"/>
+      <organization name="United Nations Protection Force" establishedDate="28-FEB-92"/>
+      <organization name="United Nations Observer Mission in Liberia" establishedDate="22-SEP-93"/>
+      <organization name="United Nations Mission in Haiti" establishedDate="23-SEP-93"/>
+      <organization name="United Nations Assistance Mission for Rwanda" establishedDate="05-OCT-93"/>
+      <organization name="United Nations Mission of Observers in Tajikistan" establishedDate="16-DEC-94"/>
+      <organization name="United Nations Confidence Restoration Operation in Croatia" establishedDate="31-MAR-95"/>
+      <organization name="United Nations Observer Mission in Georgia" establishedDate=""/>
+      <province name="Alabama"/>
+      <province name="Alaska">
+        <mountain name="Mt McKinley" altitude="6193" latitude="63.1" longitude="-151"/>
+      </province>
+      <province name="Arizona">
+        <mountain name="Humphreys Peak" altitude="3850" latitude="35.3" longitude="-111.65"/>
+      </province>
+      <province name="Arkansas"/>
+      <province name="California">
+        <mountain name="Mt Whitney" altitude="4418" latitude="36.6" longitude="-118.2"/>
+      </province>
+      <province name="Colorado">
+        <mountain name="Mt Elbert" altitude="4401" latitude="39.1" longitude="-106.4"/>
+      </province>
+      <province name="Connecticut"/>
+      <province name="Delaware"/>
+      <province name="Distr. Columbia"/>
+      <province name="Florida"/>
+      <province name="Georgia"/>
+      <province name="Hawaii">
+        <mountain name="Mauna Kea" altitude="4214" latitude="19.6" longitude="-155.45"/>
+      </province>
+      <province name="Idaho">
+        <mountain name="Borah Peak" altitude="3859" latitude="44.1" longitude="-113.8"/>
+      </province>
+      <province name="Illinois"/>
+      <province name="Indiana"/>
+      <province name="Iowa"/>
+      <province name="Kansas"/>
+      <province name="Kentucky"/>
+      <province name="Louisiana"/>
+      <province name="Maine"/>
+      <province name="Maryland"/>
+      <province name="Massachusetts"/>
+      <province name="Michigan"/>
+      <province name="Minnesota"/>
+      <province name="Mississippi"/>
+      <province name="Missouri"/>
+      <province name="Montana">
+        <mountain name="Granite Peak" altitude="3901" latitude="45" longitude="-109.5"/>
+      </province>
+      <province name="Nebraska"/>
+      <province name="Nevada">
+        <mountain name="Boundary Peak" altitude="4006" latitude="37.9" longitude="-118.3"/>
+      </province>
+      <province name="New Hampshire">
+        <mountain name="Mt Washington" altitude="1917" latitude="44.3" longitude="-71.3"/>
+      </province>
+      <province name="New Jersey"/>
+      <province name="New Mexico">
+        <mountain name="Wheeler Peak" altitude="4011" latitude="36.55" longitude="-105.4"/>
+      </province>
+      <province name="New York">
+        <mountain name="Mt Marcy" altitude="1629" latitude="44.1" longitude="-73.9"/>
+      </province>
+      <province name="North Carolina">
+        <mountain name="Mt Mitchell" altitude="2037" latitude="35.4" longitude="-82.1"/>
+      </province>
+      <province name="North Dakota"/>
+      <province name="Ohio"/>
+      <province name="Oklahoma"/>
+      <province name="Oregon">
+        <mountain name="Mt Hood" altitude="3424" latitude="45.2" longitude="-121.5"/>
+      </province>
+      <province name="Pennsylvania"/>
+      <province name="Rhode Island"/>
+      <province name="South Carolina"/>
+      <province name="South Dakota">
+        <mountain name="Harney Peak" altitude="2207" latitude="44" longitude="-103.4"/>
+      </province>
+      <province name="Tennessee">
+        <mountain name="Clingmans Dome" altitude="2025" latitude="35.3" longitude="-83.2"/>
+      </province>
+      <province name="Texas">
+        <mountain name="Guadalupe Peak" altitude="2667" latitude="32" longitude="-105"/>
+      </province>
+      <province name="Utah">
+        <mountain name="Kings Peak" altitude="4123" latitude="40.5" longitude="-110.4"/>
+      </province>
+      <province name="Vermont"/>
+      <province name="Virginia"/>
+      <province name="Washington">
+        <mountain name="Mt Rainier" altitude="4392" latitude="46.5" longitude="-121.75"/>
+      </province>
+      <province name="West Virginia"/>
+      <province name="Wisconsin"/>
+      <province name="Wyoming">
+        <mountain name="Gannett Peak" altitude="4207" latitude="43.2" longitude="-110"/>
+      </province>
+      <river name="Truckee River"/>
+      <river name="Arkansas"/>
+      <river name="Colorado"/>
+      <river name="Rio Grande"/>
+      <river name="Mississippi"/>
+      <river name="Missouri"/>
+      <river name="Connecticut River"/>
+      <river name="Merrimack River"/>
+      <river name="Hudson River"/>
+      <river name="Niagara River"/>
+      <river name="Tennessee"/>
+      <river name="Allegheny River"/>
+      <river name="Ohio River"/>
+    </country>
+    <country name="Cayman Islands" population="49035" blength="">
+      <province name="Cayman Islands"/>
+    </country>
+    <country name="Costa Rica" population="3463083" blength="">
+      <province name="Alajuela"/>
+      <province name="Cartago">
+        <mountain name="Cerro Chirripo" altitude="3819" latitude="9.5" longitude="-83.5"/>
+      </province>
+      <province name="Guanacaste"/>
+      <province name="Heredia"/>
+      <province name="Limon">
+        <mountain name="Cerro Chirripo" altitude="3819" latitude="9.5" longitude="-83.5"/>
+      </province>
+      <province name="Puntarenas"/>
+      <province name="San Jose"/>
+    </country>
+    <country name="Nicaragua" population="4272352" blength="">
+      <province name="Nicaragua">
+        <mountain name="Concepcion" altitude="1700" latitude="11.5" longitude="-85.6"/>
+      </province>
+      <river name="Rio San Juan"/>
+    </country>
+    <country name="Panama" population="2655094" blength="">
+      <province name="Bocas del Toro"/>
+      <province name="Chiriqui"/>
+      <province name="Cocle"/>
+      <province name="Colon"/>
+      <province name="Comarca de San Blas"/>
+      <province name="Darien"/>
+      <province name="Herrera"/>
+      <province name="Los Santos"/>
+      <province name="Panama"/>
+      <province name="Veraguas"/>
+    </country>
+    <country name="Cuba" population="10951334" blength="">
+      <province name="Camaguey"/>
+      <province name="Ciego de Avila"/>
+      <province name="Cienfuegos"/>
+      <province name="Ciudad de la Habana"/>
+      <province name="Granma">
+        <mountain name="Pico Turquino" altitude="1974" latitude="20" longitude="-76.8"/>
+      </province>
+      <province name="Guantanamo"/>
+      <province name="Holguin"/>
+      <province name="Isla de la Juventud"/>
+      <province name="La Habana"/>
+      <province name="Las Tunas"/>
+      <province name="Matanzas"/>
+      <province name="Pinar del Rio"/>
+      <province name="Sancti Spiritus"/>
+      <province name="Santiago de Cuba">
+        <mountain name="Pico Turquino" altitude="1974" latitude="20" longitude="-76.8"/>
+      </province>
+      <province name="Villa Clara"/>
+    </country>
+    <country name="Dominica" population="82926" blength="">
+      <province name="Dominica">
+        <mountain name="Morne Diablotins" altitude="1447" latitude="15.5" longitude="-61.4"/>
+      </province>
+    </country>
+    <country name="Dominican Republic" population="8088881" blength="">
+      <province name="Dominican Republic">
+        <mountain name="Pico Duarte" altitude="3098" latitude="18.3" longitude="-71.3"/>
+      </province>
+    </country>
+    <country name="Haiti" population="6731539" blength="">
+      <province name="Haiti"/>
+    </country>
+    <country name="El Salvador" population="5828987" blength="">
+      <province name="El Salvador"/>
+    </country>
+    <country name="Honduras" population="5605193" blength="1520">
+      <organization name="Central American Bank for Economic Integration" establishedDate="13-DEC-60"/>
+      <province name="Atlantida"/>
+      <province name="Choluteca"/>
+      <province name="Colon"/>
+      <province name="Comayagua"/>
+      <province name="Copan"/>
+      <province name="Cortes"/>
+      <province name="El Paraiso"/>
+      <province name="Francisco Morazan"/>
+      <province name="Gracias a Dios"/>
+      <province name="Intibuca"/>
+      <province name="Islas de la Bahia"/>
+      <province name="La Paz"/>
+      <province name="Lempira"/>
+      <province name="Ocotepeque"/>
+      <province name="Olancho"/>
+      <province name="Santa Barbara"/>
+      <province name="Valle"/>
+      <province name="Yoro"/>
+    </country>
+    <country name="Greenland" population="58203" blength="">
+      <province name="Greenland"/>
+    </country>
+    <country name="Grenada" population="94961" blength="">
+      <province name="Grenada"/>
+    </country>
+    <country name="Guadeloupe" population="407768" blength="">
+      <province name="Guadeloupe">
+        <mountain name="La Soufriere" altitude="1467" latitude="16.05" longitude="-61.65"/>
+      </province>
+    </country>
+    <country name="Jamaica" population="2595275" blength="">
+      <province name="Jamaica">
+        <mountain name="Blue Mountain Peak" altitude="2256" latitude="18.1" longitude="-76.4"/>
+      </province>
+    </country>
+    <country name="Martinique" population="399151" blength="">
+      <province name="Martinique">
+        <mountain name="Pelee" altitude="1397" latitude="14.8" longitude="-61.15"/>
+      </province>
+    </country>
+    <country name="Montserrat" population="5097" blength="">
+      <province name="Montserrat">
+        <mountain name="Soufriere Hills" altitude="1050" latitude="16.7" longitude="-62.2"/>
+      </province>
+    </country>
+    <country name="Netherlands Antilles" population="227049" blength="">
+      <province name="Netherlands Antilles"/>
+    </country>
+    <country name="Saint Martin" population="29820" blength="">
+      <province name="Saint Martin"/>
+    </country>
+    <country name="Colombia" population="36813161" blength="7408">
+      <province name="Amazonas"/>
+      <province name="Antioquia"/>
+      <province name="Arauca"/>
+      <province name="Atlantico"/>
+      <province name="Bolivar"/>
+      <province name="Boyaca"/>
+      <province name="Caldas"/>
+      <province name="Caqueta"/>
+      <province name="Casanare"/>
+      <province name="Cauca"/>
+      <province name="Cesar"/>
+      <province name="Choco">
+        <mountain name="Nevado del Ruiz" altitude="5389" latitude="4.9" longitude="-75.3"/>
+      </province>
+      <province name="Cordoba"/>
+      <province name="Cundinamarca"/>
+      <province name="Guainia"/>
+      <province name="Guajira, La"/>
+      <province name="Guaviare"/>
+      <province name="Huila">
+        <mountain name="Nevado del Huila" altitude="5750" latitude="2.9" longitude="-76"/>
+      </province>
+      <province name="Magdalena">
+        <mountain name="Pico Cristobal Colon" altitude="5775" latitude="10.85" longitude="-73.7"/>
+      </province>
+      <province name="Meta"/>
+      <province name="Narino"/>
+      <province name="Norte de Santander"/>
+      <province name="Putumayo"/>
+      <province name="Quindio"/>
+      <province name="Risaralda">
+        <mountain name="Nevado del Ruiz" altitude="5389" latitude="4.9" longitude="-75.3"/>
+      </province>
+      <province name="San Andres y Providencia"/>
+      <province name="Santa Fe de Bogota, DC"/>
+      <province name="Santander del Sur"/>
+      <province name="Sucre"/>
+      <province name="Tolima"/>
+      <province name="Valle de Cauca"/>
+      <province name="Vaupes"/>
+      <province name="Vichada"/>
+      <river name="Rio Negro"/>
+      <river name="Rio Magdalena"/>
+    </country>
+    <country name="Puerto Rico" population="3971020" blength="">
+      <province name="Puerto Rico">
+        <mountain name="Cerro de Punta" altitude="1338" latitude="18.2" longitude="-66.6"/>
+      </province>
+    </country>
+    <country name="Saint Kitts and Nevis" population="41369" blength="">
+      <province name="Saint Kitts and Nevis"/>
+    </country>
+    <country name="Saint Lucia" population="157862" blength="">
+      <organization name="Organization of Eastern Caribbean States" establishedDate="18-JUN-81"/>
+      <province name="Saint Lucia"/>
+    </country>
+    <country name="Saint Pierre and Miquelon" population="6809" blength="">
+      <province name="Saint Pierre and Miquelon"/>
+    </country>
+    <country name="Saint Vincent and the Grenadines" population="118344" blength="">
+      <province name="Saint Vincent and the Grenadines">
+        <mountain name="Soufriere" altitude="1220" latitude="13.35" longitude="-61.2"/>
+      </province>
+    </country>
+    <country name="Trinidad and Tobago" population="1272385" blength="">
+      <province name="Trinidad and Tobago"/>
+    </country>
+    <country name="Turks and Caicos Islands" population="22942" blength="">
+      <province name="Turks and Caicos Islands"/>
+    </country>
+    <country name="Virgin Islands" population="97120" blength="">
+      <province name="Virgin Islands"/>
+    </country>
+  </continent>
+  <continent name="Asia">
+    <country name="Russia" population="148178487" blength="19913">
+      <province name="Altayskiy kray"/>
+      <province name="Amurskaya oblast"/>
+      <province name="Arkhangelskaya oblast"/>
+      <province name="Astrakhanskaya oblast"/>
+      <province name="Belgorodskaya oblast"/>
+      <province name="Bryanskaya oblast"/>
+      <province name="Chechen Rep."/>
+      <province name="Chelyabinskaya oblast"/>
+      <province name="Chitinskaya oblast"/>
+      <province name="Chukotsky ao"/>
+      <province name="Chuvash Republic"/>
+      <province name="Irkutskaya oblast"/>
+      <province name="Ivanovskaya oblast"/>
+      <province name="Kabardino Balkar Rep.">
+        <mountain name="Elbrus" altitude="5642" latitude="43.21" longitude="42.26"/>
+      </province>
+      <province name="Kaliningradskaya oblast"/>
+      <province name="Kaluzhskaya oblast"/>
+      <province name="Kamchatskaya oblast">
+        <mountain name="Kljutschewskaja Sopka" altitude="4750" latitude="56.1" longitude="160.6"/>
+      </province>
+      <province name="Karachayevo Cherkessk Rep."/>
+      <province name="Kemerovskaya oblast"/>
+      <province name="Khabarovskiy kray"/>
+      <province name="Kirovskaya oblast"/>
+      <province name="Kostromskaya oblast"/>
+      <province name="Krasnodarsky kray"/>
+      <province name="Krasnoyarskiy kray"/>
+      <province name="Kurganskaya oblast"/>
+      <province name="Kurskaya oblast"/>
+      <province name="Leningradskaya oblast"/>
+      <province name="Lipetskaya oblast"/>
+      <province name="Magadanskaya oblast"/>
+      <province name="Moskovskaya oblast"/>
+      <province name="Moskva"/>
+      <province name="Murmanskaya oblast"/>
+      <province name="Nizhegorodskaya oblast"/>
+      <province name="Novgorodskaya oblast"/>
+      <province name="Novosibirskaya oblast"/>
+      <province name="Omskaya oblast"/>
+      <province name="Orenburgskaya oblast"/>
+      <province name="Orjolskaya oblast"/>
+      <province name="Penzenskaya oblast"/>
+      <province name="Permskaya oblast"/>
+      <province name="Primorsky kray"/>
+      <province name="Pskovskaya oblast"/>
+      <province name="Rep. of Adygeya"/>
+      <province name="Rep. of Altay">
+        <mountain name="Bjelucha" altitude="4506" latitude="49.48" longitude="86.4"/>
+      </province>
+      <province name="Rep. of Bashkortostan"/>
+      <province name="Rep. of Buryatiya">
+        <mountain name="Zhima" altitude="1276" latitude="53.15" longitude="107.4"/>
+      </province>
+      <province name="Rep. of Dagestan"/>
+      <province name="Rep. of Ingushetiya"/>
+      <province name="Rep. of Kalmykiya"/>
+      <province name="Rep. of Karelia"/>
+      <province name="Rep. of Khakassiya"/>
+      <province name="Rep. of Komi">
+        <mountain name="Narodnaja" altitude="1895" latitude="65" longitude="60.1"/>
+      </province>
+      <province name="Rep. of Mariy El"/>
+      <province name="Rep. of Mordovia"/>
+      <province name="Rep. of North Ossetiya">
+        <mountain name="Kasbek" altitude="5033" latitude="42.42" longitude="44.31"/>
+      </province>
+      <province name="Rep. of Sakha"/>
+      <province name="Rep. of Tatarstan"/>
+      <province name="Rep. of Tyva"/>
+      <province name="Rostovskaya oblast"/>
+      <province name="Ryazanskaya oblast"/>
+      <province name="Sakhalinskaya oblast"/>
+      <province name="Samarskaya oblast"/>
+      <province name="Sankt Peterburg"/>
+      <province name="Saratovskaya oblast"/>
+      <province name="Smolenskaya oblast"/>
+      <province name="Stavropolsky kray"/>
+      <province name="Sverdlovskaya oblast"/>
+      <province name="Tambovskaya oblast"/>
+      <province name="Tomskaya oblast"/>
+      <province name="Tulskaya oblast"/>
+      <province name="Tverskaya oblast"/>
+      <province name="Tyumenskaya oblast"/>
+      <province name="Udmurt Republic"/>
+      <province name="Ulyanovskaya oblast"/>
+      <province name="Vladimirskaya oblast"/>
+      <province name="Volgogradskaya oblast"/>
+      <province name="Vologodskaya oblast"/>
+      <province name="Voronezhskaya oblast"/>
+      <province name="Yaroslavskaya oblast"/>
+      <province name="Yevreyskaya avt. oblast"/>
+      <river name="Ob"/>
+      <river name="Amur"/>
+      <river name="Schilka"/>
+      <river name="Lena"/>
+      <river name="Chatanga"/>
+      <river name="Newa"/>
+      <river name="Swir"/>
+      <river name="Kolyma"/>
+      <river name="Tobol"/>
+      <river name="Oka"/>
+      <river name="Narva"/>
+      <river name="Katun"/>
+      <river name="Ural"/>
+      <river name="Angara"/>
+      <river name="Petschora"/>
+      <river name="Jenissej"/>
+      <river name="Dnepr"/>
+      <river name="Western Dwina"/>
+      <river name="Don"/>
+      <river name="Volga"/>
+      <river name="Northern Dwina"/>
+      <river name="Suchona"/>
+    </country>
+    <country name="Turkey" population="62484478" blength="">
+      <province name="Adana"/>
+      <province name="Adiyaman"/>
+      <province name="Afyon"/>
+      <province name="Agri">
+        <mountain name="Ararat" altitude="5165" latitude="39.7" longitude="44.3"/>
+      </province>
+      <province name="Aksaray"/>
+      <province name="Amasya"/>
+      <province name="Ankara"/>
+      <province name="Antalya"/>
+      <province name="Artvin"/>
+      <province name="Aydin"/>
+      <province name="Balikesir"/>
+      <province name="Batman"/>
+      <province name="Bayburt"/>
+      <province name="Bilecik"/>
+      <province name="Bingol"/>
+      <province name="Bitlis"/>
+      <province name="Bolu"/>
+      <province name="Burdur"/>
+      <province name="Bursa"/>
+      <province name="Canakkale"/>
+      <province name="Cankiri"/>
+      <province name="Corum"/>
+      <province name="Denizli"/>
+      <province name="Diyarbakir"/>
+      <province name="Edirne"/>
+      <province name="Elazig"/>
+      <province name="Erzincan"/>
+      <province name="Erzurum"/>
+      <province name="Eskisehir"/>
+      <province name="Gaziantep"/>
+      <province name="Giresun"/>
+      <province name="Gumushane"/>
+      <province name="Hakkari"/>
+      <province name="Hatay"/>
+      <province name="Icel"/>
+      <province name="Isparta"/>
+      <province name="Istanbul"/>
+      <province name="Izmir"/>
+      <province name="Karaman"/>
+      <province name="Karamanmaras"/>
+      <province name="Kars"/>
+      <province name="Kastamonu"/>
+      <province name="Kayseri"/>
+      <province name="Kirikkale"/>
+      <province name="Kirklareli"/>
+      <province name="Kirsehir"/>
+      <province name="Kocaeli"/>
+      <province name="Konya"/>
+      <province name="Kutahya"/>
+      <province name="Malatya"/>
+      <province name="Manisa"/>
+      <province name="Mardin"/>
+      <province name="Mugla"/>
+      <province name="Mus"/>
+      <province name="Nevsehir"/>
+      <province name="Nigde">
+        <mountain name="Demirkazik" altitude="3756" latitude="37.8" longitude="35.2"/>
+      </province>
+      <province name="Ordu"/>
+      <province name="Rize"/>
+      <province name="Sakarya"/>
+      <province name="Samsun"/>
+      <province name="Sanliurfa"/>
+      <province name="Siirt"/>
+      <province name="Sinop"/>
+      <province name="Sirnak"/>
+      <province name="Sivas"/>
+      <province name="Tekirdag"/>
+      <province name="Tokat"/>
+      <province name="Trabzon"/>
+      <province name="Tunceli"/>
+      <province name="Usak"/>
+      <province name="Van"/>
+      <province name="Yozgat"/>
+      <province name="Zonguldak"/>
+      <river name="Murat"/>
+      <river name="Tigris"/>
+      <river name="Karasu"/>
+      <river name="Kura"/>
+      <river name="Euphrat"/>
+    </country>
+    <country name="Afghanistan" population="22664136" blength="">
+      <province name="Afghanistan">
+        <mountain name="Tirich Mir" altitude="7690" latitude="36.25" longitude="71.8"/>
+      </province>
+      <river name="Amudarja"/>
+      <river name="Pjandsh"/>
+    </country>
+    <country name="China" population="1210004956" blength="22143.34">
+      <province name="Anhui"/>
+      <province name="Beijing (munic.)"/>
+      <province name="Fujian"/>
+      <province name="Gansu"/>
+      <province name="Guangdong"/>
+      <province name="Guangxi Zhuangzu"/>
+      <province name="Guizhou"/>
+      <province name="Hainan"/>
+      <province name="Hebei"/>
+      <province name="Heilongjiang"/>
+      <province name="Henan"/>
+      <province name="Hubei"/>
+      <province name="Hunan"/>
+      <province name="Jiangsu"/>
+      <province name="Jiangxi"/>
+      <province name="Jilin">
+        <mountain name="Changbai Shan" altitude="2744" latitude="42" longitude="128.1"/>
+      </province>
+      <province name="Liaoning"/>
+      <province name="Nei Monggol"/>
+      <province name="Ningxia Huizu"/>
+      <province name="Qinghai"/>
+      <province name="Shaanxi"/>
+      <province name="Shandong"/>
+      <province name="Shanghai (munic.)"/>
+      <province name="Shanxi"/>
+      <province name="Sichuan"/>
+      <province name="Tianjin (munic.)"/>
+      <province name="Tibet">
+        <mountain name="Mount Everest" altitude="8848" latitude="28" longitude="86.9"/>
+      </province>
+      <province name="Xinjiang Uygur">
+        <mountain name="K2" altitude="8611" latitude="35.9" longitude="76.5"/>
+      </province>
+      <province name="Yunnan"/>
+      <province name="Zhejiang"/>
+      <river name="Argun"/>
+      <river name="Hwangho"/>
+      <river name="Jangtse"/>
+      <river name="Brahmaputra"/>
+      <river name="Ganges"/>
+      <river name="Indus"/>
+      <river name="Irawaddy"/>
+      <river name="Mekong"/>
+      <river name="Saluen"/>
+    </country>
+    <country name="Iran" population="66094264" blength="5440">
+      <organization name="Economic Cooperation Organization" establishedDate="01-JAN-85"/>
+      <province name="Azarbayian e Gharbt"/>
+      <province name="Azarbayian e Sharqi">
+        <mountain name="Sabalan" altitude="4811" latitude="38.3" longitude="47.8"/>
+      </province>
+      <province name="Bakhtaran"/>
+      <province name="Boyer Ahmad e Kohkiluyeh"/>
+      <province name="Bushehr"/>
+      <province name="Chahar Mahal e Bakhtiari">
+        <mountain name="Zard Kuh" altitude="4550" latitude="32.35" longitude="50.1"/>
+      </province>
+      <province name="Esfahan"/>
+      <province name="Fars"/>
+      <province name="Gilan"/>
+      <province name="Hamadan"/>
+      <province name="Hormozgan"/>
+      <province name="Ilam"/>
+      <province name="Kerman"/>
+      <province name="Khorasan"/>
+      <province name="Khuzestan"/>
+      <province name="Kordestan"/>
+      <province name="Lorestan"/>
+      <province name="Markazi"/>
+      <province name="Mazandaran">
+        <mountain name="Damavand" altitude="5610" latitude="35.95" longitude="52.1"/>
+      </province>
+      <province name="Semnan"/>
+      <province name="Sistan e Baluchestan"/>
+      <province name="Tehran"/>
+      <province name="Yazd"/>
+      <province name="Zanjan"/>
+      <river name="Karun"/>
+    </country>
+    <country name="Pakistan" population="129275660" blength="6774">
+      <province name="Pakistan">
+        <mountain name="K2" altitude="8611" latitude="35.9" longitude="76.5"/>
+      </province>
+    </country>
+    <country name="Tajikistan" population="5916373" blength="3651">
+      <province name="Badakhshoni Kuni">
+        <mountain name="Pik Kommunizma" altitude="7494" latitude="39" longitude="72"/>
+      </province>
+      <province name="Dushanbe (munic.)"/>
+      <province name="Khatlon"/>
+      <province name="Khujand"/>
+      <province name="Kulob"/>
+      <river name="Pjandsh"/>
+      <river name="Amudarja"/>
+      <river name="Syrdarja"/>
+    </country>
+    <country name="Turkmenistan" population="4149283" blength="3736">
+      <province name="Ahal"/>
+      <province name="Balkan"/>
+      <province name="Dashhowuz"/>
+      <province name="Leban"/>
+      <province name="Mary"/>
+    </country>
+    <country name="Uzbekistan" population="23418381" blength="">
+      <province name="Andijon"/>
+      <province name="Bukhoro"/>
+      <province name="Farghona"/>
+      <province name="Jizzakh"/>
+      <province name="Khorazm"/>
+      <province name="Namangan"/>
+      <province name="Nawoiy"/>
+      <province name="Qaraqalpoghiston"/>
+      <province name="Qasqadare"/>
+      <province name="Samarqand"/>
+      <province name="Sirdare"/>
+      <province name="Surkhondare"/>
+      <province name="Toshkent"/>
+    </country>
+    <country name="Armenia" population="3463574" blength="">
+      <province name="Armenia"/>
+    </country>
+    <country name="Georgia" population="5219810" blength="1461">
+      <province name="Georgia">
+        <mountain name="Kasbek" altitude="5033" latitude="42.42" longitude="44.31"/>
+      </province>
+    </country>
+    <country name="Azerbaijan" population="7676953" blength="2013">
+      <province name="Azerbaijan"/>
+    </country>
+    <country name="Bahrain" population="590042" blength="">
+      <province name="Bahrain"/>
+    </country>
+    <country name="Bangladesh" population="123062800" blength="">
+      <province name="Bangladesh"/>
+    </country>
+    <country name="Myanmar" population="45975625" blength="5876">
+      <province name="Ayeyarwady"/>
+      <province name="Bago"/>
+      <province name="Chin"/>
+      <province name="Kachin"/>
+      <province name="Kayah"/>
+      <province name="Kayin"/>
+      <province name="Magway"/>
+      <province name="Mandalay"/>
+      <province name="Mon"/>
+      <province name="Rakhine"/>
+      <province name="Sagaing"/>
+      <province name="Shan"/>
+      <province name="Tanintharyi"/>
+      <province name="Yangon"/>
+    </country>
+    <country name="India" population="952107694" blength="14103">
+      <province name="Andaman and Nicobar Is."/>
+      <province name="Andhra Pradesh"/>
+      <province name="Arunachal Pradesh"/>
+      <province name="Assam"/>
+      <province name="Bihar"/>
+      <province name="Chandigarh"/>
+      <province name="Dadra and Nagar Haveli"/>
+      <province name="Daman and Diu"/>
+      <province name="Delhi"/>
+      <province name="Goa"/>
+      <province name="Gujarat"/>
+      <province name="Haryana"/>
+      <province name="Himachal Pradesh"/>
+      <province name="Jammu and Kashmir"/>
+      <province name="Karnataka"/>
+      <province name="Kerala"/>
+      <province name="Lakshadweep Is."/>
+      <province name="Madhya Pradesh"/>
+      <province name="Maharashtra"/>
+      <province name="Manipur"/>
+      <province name="Meghalaya"/>
+      <province name="Mizoram"/>
+      <province name="Nagaland"/>
+      <province name="Orissa"/>
+      <province name="Pondicherry"/>
+      <province name="Punjab"/>
+      <province name="Rajasthan"/>
+      <province name="Sikkim">
+        <mountain name="Kangchendzonga" altitude="8586" latitude="27.7" longitude="88.1"/>
+      </province>
+      <province name="Tamil Nadu">
+        <mountain name="Dodabetta" altitude="2636" latitude="11.4" longitude="76.7"/>
+      </province>
+      <province name="Tripura"/>
+      <province name="Uttar Pradesh">
+        <mountain name="Nanda Devi" altitude="7816" latitude="30.4" longitude="80"/>
+      </province>
+      <province name="West Bengal"/>
+    </country>
+    <country name="Bhutan" population="1822625" blength="">
+      <province name="Bhutan"/>
+    </country>
+    <country name="Brunei" population="299939" blength="">
+      <province name="Brunei"/>
+    </country>
+    <country name="Malaysia" population="19962893" blength="2669">
+      <province name="Fed. Terr. of Kuala Lumpur"/>
+      <province name="Fed. Terr. of Labuan"/>
+      <province name="Johor"/>
+      <province name="Kedah"/>
+      <province name="Kelantan">
+        <mountain name="Tahan" altitude="2190" latitude="4" longitude="108"/>
+      </province>
+      <province name="Melaka"/>
+      <province name="Negeri Sembilan"/>
+      <province name="Pahang">
+        <mountain name="Tahan" altitude="2190" latitude="4" longitude="108"/>
+      </province>
+      <province name="Perak"/>
+      <province name="Perlis"/>
+      <province name="Pulau Pinang"/>
+      <province name="Sabah">
+        <mountain name="Kinabalu" altitude="4101" latitude="6.1" longitude="116.5"/>
+      </province>
+      <province name="Sarawak"/>
+      <province name="Selangor"/>
+      <province name="Terengganu"/>
+    </country>
+    <country name="Laos" population="4975772" blength="5083">
+      <province name="Laos"/>
+    </country>
+    <country name="Thailand" population="58851357" blength="">
+      <organization name="Economic and Social Commission for Asia and the Pacific" establishedDate="28-MAR-47"/>
+      <province name="Thailand"/>
+    </country>
+    <country name="Cambodia" population="10861218" blength="">
+      <province name="Cambodia"/>
+    </country>
+    <country name="Vietnam" population="73976973" blength="">
+      <province name="Vietnam"/>
+    </country>
+    <country name="Kazakstan" population="16916463" blength="">
+      <province name="Almaty"/>
+      <province name="Almaty (munic.)"/>
+      <province name="Aqmola"/>
+      <province name="Aqtobe"/>
+      <province name="Atyrau"/>
+      <province name="Batys Qazaqstan"/>
+      <province name="Kokchetau"/>
+      <province name="Leninsk (munic.)"/>
+      <province name="Mangghystau"/>
+      <province name="Ongtustik Qazaqstan"/>
+      <province name="Pavlodar"/>
+      <province name="Qaraghandy"/>
+      <province name="Qostanay"/>
+      <province name="Qyzylorda"/>
+      <province name="Semey"/>
+      <province name="Shyghys Qazaqstan">
+        <mountain name="Bjelucha" altitude="4506" latitude="49.48" longitude="86.4"/>
+      </province>
+      <province name="Soltustik Qazaqstan"/>
+      <province name="Taldyqorghan"/>
+      <province name="Torghay"/>
+      <province name="Zhambyl"/>
+      <province name="Zhezkazghan"/>
+      <river name="Ischim"/>
+      <river name="Irtysch"/>
+    </country>
+    <country name="North Korea" population="23904124" blength="">
+      <province name="North Korea">
+        <mountain name="Changbai Shan" altitude="2744" latitude="42" longitude="128.1"/>
+      </province>
+    </country>
+    <country name="Kyrgyzstan" population="4529648" blength="3878">
+      <province name="Kyrgyzstan">
+        <mountain name="Pik Pobeda" altitude="7439" latitude="42" longitude="80.1"/>
+      </province>
+      <river name="Naryn"/>
+    </country>
+    <country name="Hong Kong" population="7055071" blength="">
+      <province name="Hong Kong"/>
+    </country>
+    <country name="Macau" population="496837" blength="">
+      <province name="Macau"/>
+    </country>
+    <country name="Mongolia" population="2496617" blength="">
+      <province name="Mongolia"/>
+    </country>
+    <country name="Nepal" population="22094033" blength="2926">
+      <organization name="South Asian Association for Regional Cooperation" establishedDate="08-DEC-85"/>
+      <province name="Nepal">
+        <mountain name="Mount Everest" altitude="8848" latitude="28" longitude="86.9"/>
+      </province>
+    </country>
+    <country name="Gaza Strip" population="813332" blength="62">
+      <province name="Gaza Strip"/>
+    </country>
+    <country name="Israel" population="5421995" blength="1006">
+      <organization name="United Nations Truce Supervision Organization" establishedDate="01-MAY-48"/>
+      <province name="Central"/>
+      <province name="Haifa"/>
+      <province name="North"/>
+      <province name="South"/>
+      <province name="Tel Aviv"/>
+    </country>
+    <country name="Egypt" population="63575107" blength="">
+      <organization name="Arab League" establishedDate="22-MAR-45"/>
+      <province name="Aswan"/>
+      <province name="Asyut"/>
+      <province name="Beni Suef"/>
+      <province name="Bur Said (munic.)"/>
+      <province name="Dumyat"/>
+      <province name="El Bahr el Ahmar"/>
+      <province name="El Buhayra"/>
+      <province name="El Daqahliya"/>
+      <province name="El Faiyum"/>
+      <province name="El Gharbiya"/>
+      <province name="El Giza"/>
+      <province name="El Iskandariya"/>
+      <province name="El Minufiya"/>
+      <province name="El Minya"/>
+      <province name="El Qahira"/>
+      <province name="El Qalubiya"/>
+      <province name="El Suweiz"/>
+      <province name="El Wadi el Jadid"/>
+      <province name="Ismailiya"/>
+      <province name="Kafr el Sheikh"/>
+      <province name="Matruh"/>
+      <province name="Qena"/>
+      <province name="Sharqiya"/>
+      <province name="Sina al Janubiyah">
+        <mountain name="Jabal Katrina" altitude="2637" latitude="28.5" longitude="33.95"/>
+      </province>
+      <province name="Sina ash Shamaliyah"/>
+      <province name="Sohag"/>
+    </country>
+    <country name="Indonesia" population="206611600" blength="2830">
+      <organization name="Nonaligned Movement" establishedDate="01-SEP-61"/>
+      <organization name="Association of Southeast Asian Nations" establishedDate="09-AUG-67"/>
+      <province name="Indonesia">
+        <mountain name="Puncak Jaya" altitude="4884" latitude="-4.1" longitude="137.11"/>
+      </province>
+      <river name="Asahan"/>
+    </country>
+    <country name="Timor-Leste" population="1131612" blength="">
+      <province name="Timor-Leste">
+        <mountain name="Tatamailau" altitude="2963" latitude="-8.9" longitude="125.5"/>
+      </province>
+    </country>
+    <country name="Iraq" population="21422292" blength="3631">
+      <province name="Ad Tamim"/>
+      <province name="Al Anbar"/>
+      <province name="Al Basrah"/>
+      <province name="Al Muthanna"/>
+      <province name="Al Qadisiyah"/>
+      <province name="An Najaf"/>
+      <province name="Arbil"/>
+      <province name="As Sulaymaniyah"/>
+      <province name="Babil"/>
+      <province name="Baghdad"/>
+      <province name="Dahuk"/>
+      <province name="Dhi Qar"/>
+      <province name="Diyala"/>
+      <province name="Karbala"/>
+      <province name="Maysan"/>
+      <province name="Ninawa"/>
+      <province name="Salah ad Din"/>
+      <province name="Wasit"/>
+      <river name="Schatt al Arab"/>
+    </country>
+    <country name="Jordan" population="4212152" blength="1619">
+      <organization name="Council of Arab Economic Unity" establishedDate="03-JUN-57"/>
+      <organization name="Economic and Social Commission for Western Asia" establishedDate="09-AUG-73"/>
+      <province name="Jordan"/>
+    </country>
+    <country name="Kuwait" population="1950047" blength="464">
+      <province name="Kuwait"/>
+    </country>
+    <country name="Saudi Arabia" population="19409058" blength="4415">
+      <organization name="Organization of the Islamic Conference" establishedDate="22-SEP-69"/>
+      <organization name="Islamic Development Bank" establishedDate="15-DEC-73"/>
+      <organization name="Gulf Cooperation Council" establishedDate="25-MAY-81"/>
+      <province name="Saudi Arabia"/>
+    </country>
+    <country name="Syria" population="15608648" blength="2253">
+      <organization name="United Nations Disengagement Observer Force" establishedDate="31-MAY-74"/>
+      <province name="Syria"/>
+    </country>
+    <country name="Lebanon" population="3776317" blength="454">
+      <province name="Lebanon">
+        <mountain name="Jabal Lubnan" altitude="3088" latitude="34.3" longitude="36.1"/>
+      </province>
+      <river name="Jordan"/>
+    </country>
+    <country name="West Bank" population="1427741" blength="">
+      <province name="West Bank"/>
+    </country>
+    <country name="Japan" population="125449703" blength="">
+      <province name="Aichi"/>
+      <province name="Akita"/>
+      <province name="Aomori"/>
+      <province name="Chiba"/>
+      <province name="Ehime"/>
+      <province name="Fukui"/>
+      <province name="Fukuoka"/>
+      <province name="Fukushima"/>
+      <province name="Gifu">
+        <mountain name="Hotaka-Dake" altitude="3190" latitude="36" longitude="138"/>
+      </province>
+      <province name="Gumma"/>
+      <province name="Hiroshima"/>
+      <province name="Hokkaido">
+        <mountain name="Asahi-Dake" altitude="2290" latitude="43.65" longitude="142.85"/>
+      </province>
+      <province name="Hyogo"/>
+      <province name="Ibaraki"/>
+      <province name="Ishikawa"/>
+      <province name="Iwate"/>
+      <province name="Kagawa"/>
+      <province name="Kagoshima"/>
+      <province name="Kanagawa"/>
+      <province name="Kochi"/>
+      <province name="Kumamoto"/>
+      <province name="Kyoto"/>
+      <province name="Mie"/>
+      <province name="Miyagi"/>
+      <province name="Miyazaki"/>
+      <province name="Nagano">
+        <mountain name="Hotaka-Dake" altitude="3190" latitude="36" longitude="138"/>
+      </province>
+      <province name="Nagasaki"/>
+      <province name="Nara"/>
+      <province name="Niigata"/>
+      <province name="Oita"/>
+      <province name="Okayama"/>
+      <province name="Okinawa"/>
+      <province name="Osaka"/>
+      <province name="Saga"/>
+      <province name="Saitama"/>
+      <province name="Shiga"/>
+      <province name="Shimane"/>
+      <province name="Shizuoka">
+        <mountain name="Fujisan" altitude="3776" latitude="35" longitude="139"/>
+      </province>
+      <province name="Tochigi"/>
+      <province name="Tokushima"/>
+      <province name="Tokyo"/>
+      <province name="Tottori"/>
+      <province name="Toyama"/>
+      <province name="Wakayama"/>
+      <province name="Yamagata"/>
+      <province name="Yamaguchi"/>
+      <province name="Yamanashi">
+        <mountain name="Fujisan" altitude="3776" latitude="35" longitude="139"/>
+      </province>
+    </country>
+    <country name="South Korea" population="45482291" blength="">
+      <province name="South Korea"/>
+    </country>
+    <country name="Maldives" population="270758" blength="">
+      <province name="Maldives"/>
+    </country>
+    <country name="Oman" population="2186548" blength="">
+      <province name="Oman"/>
+    </country>
+    <country name="United Arab Emirates" population="3057337" blength="">
+      <organization name="Arab Monetary Fund" establishedDate="27-APR-76"/>
+      <province name="Abu Dhabi"/>
+      <province name="Ajman"/>
+      <province name="Al Fujayrah"/>
+      <province name="Ash Shariqah"/>
+      <province name="Dubayy"/>
+      <province name="Ras al Khaymah"/>
+      <province name="Umm al Qaywayn"/>
+    </country>
+    <country name="Yemen" population="13483178" blength="">
+      <province name="Yemen">
+        <mountain name="Jabal Shuayb" altitude="3760" latitude="15.5" longitude="44"/>
+      </province>
+    </country>
+    <country name="Philippines" population="74480848" blength="">
+      <organization name="Asian Development Bank" establishedDate="19-DEC-66"/>
+      <province name="Philippines">
+        <mountain name="Mount Apo" altitude="2954" latitude="7" longitude="125.45"/>
+      </province>
+    </country>
+    <country name="Qatar" population="547761" blength="">
+      <province name="Qatar"/>
+    </country>
+    <country name="Singapore" population="3396924" blength="">
+      <organization name="Asia Pacific Economic Cooperation" establishedDate="07-NOV-89"/>
+      <province name="Singapore"/>
+    </country>
+    <country name="Sri Lanka" population="18553074" blength="">
+      <organization name="Colombo Plan" establishedDate="01-JUL-51"/>
+      <province name="Sri Lanka">
+        <mountain name="Pidurutalagala" altitude="2524" latitude="7" longitude="80.8"/>
+      </province>
+    </country>
+    <country name="Taiwan" population="21465881" blength="">
+      <province name="Taiwan">
+        <mountain name="Yu Shan" altitude="3950" latitude="23.5" longitude="121"/>
+      </province>
+    </country>
+  </continent>
+  <continent name="Australia/Oceania">
+    <country name="French Polynesia" population="287032" blength="">
+      <province name="French Polynesia">
+        <mountain name="Mont Orohena" altitude="2241" latitude="-17.6" longitude="-149.5"/>
+      </province>
+    </country>
+    <country name="Guam" population="178430" blength="">
+      <province name="Guam"/>
+    </country>
+    <country name="Kiribati" population="80919" blength="">
+      <province name="Kiribati"/>
+    </country>
+    <country name="Marshall Islands" population="58363" blength="">
+      <province name="Marshall Islands"/>
+    </country>
+    <country name="Micronesia" population="125377" blength="">
+      <province name="Micronesia"/>
+    </country>
+    <country name="Nauru" population="10273" blength="">
+      <province name="Nauru"/>
+    </country>
+    <country name="New Caledonia" population="227436" blength="">
+      <organization name="South Pacific Commission" establishedDate="06-FEB-47"/>
+      <province name="New Caledonia"/>
+    </country>
+    <country name="New Zealand" population="3547983" blength="">
+      <province name="New Zealand">
+        <mountain name="Mt. Cook" altitude="3754" latitude="-43.6" longitude="170.2"/>
+      </province>
+    </country>
+    <country name="Niue" population="1398" blength="">
+      <province name="Niue"/>
+    </country>
+    <country name="Norfolk Island" population="2209" blength="">
+      <province name="Norfolk Island"/>
+    </country>
+    <country name="Northern Mariana Islands" population="88662" blength="">
+      <province name="Northern Mariana Islands"/>
+    </country>
+    <country name="Palau" population="16952" blength="">
+      <province name="Palau"/>
+    </country>
+    <country name="Pitcairn Islands" population="48" blength="">
+      <province name="Pitcairn Islands"/>
+    </country>
+    <country name="Solomon Islands" population="412902" blength="">
+      <province name="Solomon Islands">
+        <mountain name="Popomanaseu" altitude="2335" latitude="-9.7" longitude="160.1"/>
+      </province>
+    </country>
+    <country name="Tonga" population="106466" blength="">
+      <province name="Tonga"/>
+    </country>
+    <country name="Tuvalu" population="10146" blength="">
+      <province name="Tuvalu"/>
+    </country>
+    <country name="Vanuatu" population="177504" blength="">
+      <province name="Vanuatu"/>
+    </country>
+    <country name="Wallis and Futuna" population="15289" blength="">
+      <province name="Wallis and Futuna"/>
+    </country>
+    <country name="Samoa" population="214384" blength="">
+      <province name="Samoa">
+        <mountain name="Silisili" altitude="1858" latitude="-13.6" longitude="-172.4"/>
+      </province>
+    </country>
+    <country name="Reunion" population="679198" blength="">
+      <province name="Reunion">
+        <mountain name="Piton des Neiges" altitude="3069" latitude="-21.1" longitude="55.5"/>
+      </province>
+    </country>
+    <country name="Saint Helena" population="7637" blength="">
+      <province name="Saint Helena">
+        <mountain name="Queen Marys Peak" altitude="2060" latitude="-37.1" longitude="-12.3"/>
+      </province>
+    </country>
+    <country name="Christmas Island" population="1402" blength="">
+      <province name="Christmas Island"/>
+    </country>
+    <country name="Cocos Islands" population="596" blength="">
+      <province name="Cocos Islands"/>
+    </country>
+    <country name="Indonesia" population="206611600" blength="2830">
+      <organization name="Nonaligned Movement" establishedDate="01-SEP-61"/>
+      <organization name="Association of Southeast Asian Nations" establishedDate="09-AUG-67"/>
+      <province name="Indonesia">
+        <mountain name="Puncak Jaya" altitude="4884" latitude="-4.1" longitude="137.11"/>
+      </province>
+      <river name="Asahan"/>
+    </country>
+    <country name="Papua New Guinea" population="4394537" blength="">
+      <province name="Papua New Guinea">
+        <mountain name="Mt. Wilhelm" altitude="4509" latitude="-5.8" longitude="145"/>
+      </province>
+    </country>
+    <country name="Bermuda" population="67837" blength="">
+      <province name="Bermuda"/>
+    </country>
+    <country name="American Samoa" population="65628" blength="">
+      <province name="American Samoa"/>
+    </country>
+    <country name="Australia" population="18260863" blength="">
+      <organization name="Australia-New Zealand-United States Security Treaty" establishedDate="01-SEP-51"/>
+      <province name="Australia Capital Territory"/>
+      <province name="New South Wales">
+        <mountain name="Mt. Kosciuszko" altitude="2228" latitude="-36.5" longitude="148"/>
+      </province>
+      <province name="Northern Territory">
+        <mountain name="Uluru" altitude="869" latitude="-25.3" longitude="131"/>
+      </province>
+      <province name="Queensland"/>
+      <province name="South Australia"/>
+      <province name="Tasmania"/>
+      <province name="Victoria">
+        <mountain name="Mt. Bogong" altitude="1986" latitude="-37" longitude="147.5"/>
+      </province>
+      <province name="Western Australia"/>
+      <river name="Murrumbidgee River"/>
+      <river name="Darling River"/>
+      <river name="Murray River"/>
+    </country>
+    <country name="Cook Islands" population="11870" blength="">
+      <province name="Cook Islands"/>
+    </country>
+    <country name="Fiji" population="782381" blength="">
+      <organization name="South Pacific Forum" establishedDate="05-AUG-71"/>
+      <province name="Fiji">
+        <mountain name="Mt.Victoria" altitude="1323" latitude="-17.8" longitude="178"/>
+      </province>
+    </country>
+  </continent>
+  <continent name="Europe">
+    <country name="Albania" population="3249136" blength="">
+      <province name="Albania">
+        <mountain name="Korab" altitude="2751" latitude="41.4" longitude="20.3"/>
+      </province>
+      <river name="Drin"/>
+    </country>
+    <country name="Greece" population="10538594" blength="1210">
+      <province name="Anatoliki Makedhonia kai Thraki"/>
+      <province name="Attiki"/>
+      <province name="Dhytiki Ellas"/>
+      <province name="Dhytiki Makedhonia"/>
+      <province name="Ionioi Nisoi"/>
+      <province name="Ipiros"/>
+      <province name="Kedriki Makedhonia">
+        <mountain name="Olymp" altitude="2917" latitude="40.1" longitude="22.35"/>
+      </province>
+      <province name="Kriti">
+        <mountain name="Psiloritis" altitude="2456" latitude="35.2" longitude="24.7"/>
+      </province>
+      <province name="Notion Aiyaion"/>
+      <province name="Peloponnisos"/>
+      <province name="Sterea Ellas"/>
+      <province name="Thessalia">
+        <mountain name="Olymp" altitude="2917" latitude="40.1" longitude="22.35"/>
+      </province>
+      <province name="Voreion Aiyaion"/>
+    </country>
+    <country name="Macedonia" population="2104035" blength="748">
+      <province name="Macedonia">
+        <mountain name="Korab" altitude="2751" latitude="41.4" longitude="20.3"/>
+      </province>
+      <river name="Black Drin"/>
+      <river name="Southern Morava"/>
+    </country>
+    <country name="Serbia" population="7379339" blength="">
+      <province name="Serbia"/>
+      <river name="Morava"/>
+      <river name="Western Morava"/>
+    </country>
+    <country name="Montenegro" population="672180" blength="400">
+      <province name="Montenegro"/>
+    </country>
+    <country name="Kosovo" population="1804838" blength="927">
+      <province name="Kosovo"/>
+      <river name="White Drin"/>
+    </country>
+    <country name="Andorra" population="72766" blength="">
+      <province name="Andorra"/>
+    </country>
+    <country name="France" population="58317450" blength="2892.4">
+      <organization name="International Chamber of Commerce" establishedDate="01-JAN-19"/>
+      <organization name="United Nations Educational, Scientific, and Cultural Organization" establishedDate="16-NOV-45"/>
+      <organization name="Franc Zone" establishedDate="20-DEC-45"/>
+      <organization name="Council of Europe" establishedDate="05-MAY-49"/>
+      <organization name="International Criminal Police Organization" establishedDate="13-JUN-56"/>
+      <organization name="Organization for Economic Cooperation and Development" establishedDate="14-DEC-60"/>
+      <organization name="Group of 10" establishedDate="01-OCT-62"/>
+      <organization name="Agency for Cultural and Technical Cooperation" establishedDate="21-MAR-70"/>
+      <organization name="European Space Agency" establishedDate="31-JUL-73"/>
+      <organization name="International Energy Agency" establishedDate="15-NOV-74"/>
+      <province name="Alsace">
+        <mountain name="Grand Ballon" altitude="1424" latitude="47.9" longitude="7.1"/>
+      </province>
+      <province name="Aquitaine"/>
+      <province name="Auvergne">
+        <mountain name="Puy de Sancy" altitude="1885" latitude="45.5" longitude="2.8"/>
+      </province>
+      <province name="Basse Normandie"/>
+      <province name="Bourgogne"/>
+      <province name="Bretagne"/>
+      <province name="Centre"/>
+      <province name="Champagne Ardenne"/>
+      <province name="Corse">
+        <mountain name="Monte Cinto" altitude="2706" latitude="42.4" longitude="8.9"/>
+      </province>
+      <province name="Franche Comte"/>
+      <province name="Haute Normandie"/>
+      <province name="Ile de France"/>
+      <province name="Languedoc Roussillon"/>
+      <province name="Limousin"/>
+      <province name="Lorraine">
+        <mountain name="Grand Ballon" altitude="1424" latitude="47.9" longitude="7.1"/>
+      </province>
+      <province name="Midi Pyrenees">
+        <mountain name="Vignemale" altitude="3298" latitude="42.8" longitude=".15"/>
+      </province>
+      <province name="Nord Pas de Calais"/>
+      <province name="Pays de la Loire"/>
+      <province name="Picardie"/>
+      <province name="Poitou Charentes"/>
+      <province name="Provence Cote dAzur"/>
+      <province name="Rhone Alpes">
+        <mountain name="Mont Blanc" altitude="4808" latitude="45.8" longitude="6.8"/>
+      </province>
+      <river name="Saar"/>
+      <river name="Seine"/>
+      <river name="Maas"/>
+      <river name="Marne"/>
+      <river name="Doubs"/>
+      <river name="Mosel"/>
+      <river name="Saone"/>
+      <river name="Isere"/>
+      <river name="Loire"/>
+    </country>
+    <country name="Spain" population="39181114" blength="1903.2">
+      <organization name="World Tourism Organization" establishedDate="02-JAN-75"/>
+      <province name="Andalusia">
+        <mountain name="Mulhacen" altitude="3482" latitude="37" longitude="3.3"/>
+      </province>
+      <province name="Aragon">
+        <mountain name="Pico de Aneto" altitude="3404" latitude="42.6" longitude=".65"/>
+      </province>
+      <province name="Asturias">
+        <mountain name="Torre de Cerredo" altitude="2648" latitude="43.2" longitude="4.85"/>
+      </province>
+      <province name="Balearic Islands"/>
+      <province name="Basque Country"/>
+      <province name="Canary Islands">
+        <mountain name="Pico de Teide" altitude="3718" latitude="28.3" longitude="-16.6"/>
+      </province>
+      <province name="Cantabria"/>
+      <province name="Castile La Mancha"/>
+      <province name="Castile and Leon">
+        <mountain name="Pico de Almanzor" altitude="2648" latitude="40.25" longitude="-5.3"/>
+        <mountain name="Torre de Cerredo" altitude="2648" latitude="43.2" longitude="4.85"/>
+      </province>
+      <province name="Catalonia"/>
+      <province name="Estremadura"/>
+      <province name="Galicia"/>
+      <province name="Madrid"/>
+      <province name="Murcia"/>
+      <province name="Navarre"/>
+      <province name="Rioja"/>
+      <province name="Valencia"/>
+      <river name="Guadalquivir"/>
+      <river name="Guadiana"/>
+      <river name="Tajo"/>
+      <river name="Douro"/>
+      <river name="Ebro"/>
+      <river name="Garonne"/>
+    </country>
+    <country name="Austria" population="8023244" blength="">
+      <organization name="United Nations Relief and Works Agency for Palestine Refugees in the Near East" establishedDate="08-DEC-49"/>
+      <organization name="International Atomic Energy Agency" establishedDate="26-OCT-56"/>
+      <organization name="Organization of Petroleum Exporting Countries" establishedDate="14-SEP-60"/>
+      <organization name="United Nations Industrial Development Organization" establishedDate="17-NOV-66"/>
+      <organization name="Organization for Security and Cooperation in Europe" establishedDate="01-JAN-95"/>
+      <organization name="Nuclear Suppliers Group" establishedDate=""/>
+      <province name="Burgenland"/>
+      <province name="Carinthia">
+        <mountain name="Grossglockner" altitude="3797" latitude="47" longitude="12.5"/>
+      </province>
+      <province name="Lower Austria"/>
+      <province name="Salzburg">
+        <mountain name="Hochgolling" altitude="2862" latitude="47.3" longitude="13.75"/>
+      </province>
+      <province name="Styria">
+        <mountain name="Hochgolling" altitude="2862" latitude="47.3" longitude="13.75"/>
+      </province>
+      <province name="Tyrol">
+        <mountain name="Zugspitze" altitude="2963" latitude="47.3" longitude="11.1"/>
+      </province>
+      <province name="Upper Austria"/>
+      <province name="Vienna"/>
+      <province name="Vorarlberg"/>
+      <river name="Enns"/>
+      <river name="Mur"/>
+      <river name="Salzach"/>
+      <river name="Raab"/>
+      <river name="Isar"/>
+      <river name="Enns"/>
+      <river name="Iller"/>
+      <river name="Lech"/>
+    </country>
+    <country name="Czech Republic" population="10321120" blength="1881">
+      <organization name="World Federation of Trade Unions" establishedDate="03-OCT-45"/>
+      <province name="Jihocesky"/>
+      <province name="Jihomoravsky"/>
+      <province name="Praha"/>
+      <province name="Severocesky"/>
+      <province name="Severomoravsky"/>
+      <province name="Vychodocesky">
+        <mountain name="Schneekoppe" altitude="1602" latitude="50.7" longitude="15.7"/>
+      </province>
+      <province name="Zapadocesky"/>
+      <river name="Moldau"/>
+      <river name="March"/>
+      <river name="Oder"/>
+      <river name="Elbe"/>
+    </country>
+    <country name="Germany" population="83536115" blength="3621">
+      <province name="Baden Wurttemberg">
+        <mountain name="Feldberg" altitude="1493" latitude="47.5" longitude="7.5"/>
+      </province>
+      <province name="Bayern">
+        <mountain name="Zugspitze" altitude="2963" latitude="47.3" longitude="11.1"/>
+      </province>
+      <province name="Berlin"/>
+      <province name="Brandenburg"/>
+      <province name="Bremen"/>
+      <province name="Hamburg"/>
+      <province name="Hessen"/>
+      <province name="Mecklenburg Vorpommern"/>
+      <province name="Niedersachsen"/>
+      <province name="Nordrhein Westfalen"/>
+      <province name="Rheinland Pfalz"/>
+      <province name="Saarland"/>
+      <province name="Sachsen"/>
+      <province name="Sachsen Anhalt">
+        <mountain name="Brocken" altitude="1141" latitude="51.8" longitude="10.6"/>
+      </province>
+      <province name="Schleswig Holstein"/>
+      <province name="Thuringen"/>
+      <river name="Breg"/>
+      <river name="Brigach"/>
+      <river name="Donau"/>
+      <river name="Neckar"/>
+      <river name="Alz"/>
+      <river name="Ammer"/>
+      <river name="Main"/>
+      <river name="Wurm"/>
+      <river name="Fulda"/>
+      <river name="Aller"/>
+      <river name="Leine"/>
+      <river name="Weser"/>
+      <river name="Werra"/>
+    </country>
+    <country name="Hungary" population="10002541" blength="2009">
+      <organization name="Central European Initiative" establishedDate="27-JUL-91"/>
+      <province name="Bacs Kiskun"/>
+      <province name="Baranya"/>
+      <province name="Bekes"/>
+      <province name="Borsod Abauj Zemplen"/>
+      <province name="Budapest (munic.)"/>
+      <province name="Csongrad"/>
+      <province name="Debrecen (munic.)"/>
+      <province name="Fejer"/>
+      <province name="Gyor (munic.)"/>
+      <province name="Gyor Sopron"/>
+      <province name="Hajdu Bihar"/>
+      <province name="Heves"/>
+      <province name="Komarom Esztergom"/>
+      <province name="Miskolc (munic.)"/>
+      <province name="Nograd"/>
+      <province name="Pecs (munic.)"/>
+      <province name="Pest"/>
+      <province name="Somogy"/>
+      <province name="Szabolcs Szatmar"/>
+      <province name="Szeged (munic.)"/>
+      <province name="Szolnok"/>
+      <province name="Tolna"/>
+      <province name="Vas"/>
+      <province name="Veszprem"/>
+      <province name="Zala"/>
+    </country>
+    <country name="Italy" population="57460274" blength="1935.2">
+      <organization name="Food and Agriculture Organization" establishedDate="16-OCT-45"/>
+      <organization name="International Fund for Agricultural Development" establishedDate="01-NOV-74"/>
+      <province name="Abruzzo">
+        <mountain name="Gran Sasso" altitude="2912" latitude="42.5" longitude="13.55"/>
+      </province>
+      <province name="Basilicata"/>
+      <province name="Calabria"/>
+      <province name="Campania">
+        <mountain name="Vesuv" altitude="1281" latitude="40.8" longitude="14.4"/>
+      </province>
+      <province name="Emilia Romagna">
+        <mountain name="Monte Falterona" altitude="1654" latitude="43.9" longitude="11.7"/>
+      </province>
+      <province name="Friuli Venezia Giulia"/>
+      <province name="Lazio"/>
+      <province name="Liguria"/>
+      <province name="Lombardia">
+        <mountain name="Monte Rosa" altitude="4634" latitude="45.9" longitude="7.9"/>
+      </province>
+      <province name="Marche"/>
+      <province name="Molise"/>
+      <province name="Piemonte">
+        <mountain name="GranParadiso" altitude="4061" latitude="45.5" longitude="7.25"/>
+      </province>
+      <province name="Puglia"/>
+      <province name="Sardegna"/>
+      <province name="Sicilia">
+        <mountain name="Etna" altitude="3323" latitude="37.7" longitude="15"/>
+      </province>
+      <province name="Toscana">
+        <mountain name="Monte Falterona" altitude="1654" latitude="43.9" longitude="11.7"/>
+      </province>
+      <province name="Trentino Alto Adige">
+        <mountain name="Marmolata" altitude="3343" latitude="46.4" longitude="11.85"/>
+      </province>
+      <province name="Umbria"/>
+      <province name="Valle dAosta">
+        <mountain name="Mont Blanc" altitude="4808" latitude="45.8" longitude="6.8"/>
+      </province>
+      <province name="Veneto">
+        <mountain name="Marmolata" altitude="3343" latitude="46.4" longitude="11.85"/>
+      </province>
+      <river name="Adda"/>
+      <river name="Po"/>
+      <river name="Arno"/>
+      <river name="Drau"/>
+      <river name="Etsch"/>
+      <river name="Tiber"/>
+      <river name="Mincio"/>
+    </country>
+    <country name="Liechtenstein" population="31122" blength="">
+      <province name="Liechtenstein"/>
+    </country>
+    <country name="Slovakia" population="5374362" blength="1355">
+      <province name="Slovakia">
+        <mountain name="GerlachovskyStit" altitude="2655" latitude="49.2" longitude="20.1"/>
+      </province>
+      <river name="Waag"/>
+    </country>
+    <country name="Slovenia" population="1951443" blength="">
+      <province name="Slovenia"/>
+      <river name="Save"/>
+    </country>
+    <country name="Switzerland" population="7207060" blength="1852">
+      <organization name="Universal Postal Union" establishedDate="09-OCT-74"/>
+      <organization name="International Olympic Committee" establishedDate="23-JUN-94"/>
+      <organization name="International Labor Organization" establishedDate="11-APR-19"/>
+      <organization name="International Federation of Red Cross and Red Crescent Societies" establishedDate="05-MAY-19"/>
+      <organization name="International Red Cross and Red Crescent Movement" establishedDate="01-JAN-28"/>
+      <organization name="Bank for International Settlements" establishedDate="20-JAN-30"/>
+      <organization name="International Telecommunication Union" establishedDate="09-DEC-32"/>
+      <organization name="World Health Organization" establishedDate="22-JUL-46"/>
+      <organization name="International Organization for Standardization" establishedDate="01-FEB-47"/>
+      <organization name="Economic Commission for Europe" establishedDate="28-MAR-47"/>
+      <organization name="World Meteorological Organization" establishedDate="11-OCT-47"/>
+      <organization name="United Nations Office of the High Commissioner for Refugees" establishedDate="03-DEC-49"/>
+      <organization name="International Organization for Migration" establishedDate="05-DEC-51"/>
+      <organization name="European Organization for Nuclear Research" establishedDate="01-JUL-53"/>
+      <organization name="European Free Trade Association" establishedDate="04-JAN-60"/>
+      <organization name="United Nations Conference on Trade and Development" establishedDate="30-DEC-64"/>
+      <organization name="World Intellectual Property Organization" establishedDate="14-JUL-67"/>
+      <organization name="Group of 15" establishedDate=""/>
+      <province name="AG"/>
+      <province name="AI"/>
+      <province name="AR"/>
+      <province name="BE"/>
+      <province name="BL">
+        <mountain name="Finsteraarhorn" altitude="4274" latitude="46.5" longitude="8.1"/>
+      </province>
+      <province name="BS"/>
+      <province name="FR"/>
+      <province name="GE"/>
+      <province name="GL"/>
+      <province name="GR">
+        <mountain name="Piz Bernina" altitude="4048" latitude="46.4" longitude="9.9"/>
+      </province>
+      <province name="JU"/>
+      <province name="LU"/>
+      <province name="NE"/>
+      <province name="NW"/>
+      <province name="OW"/>
+      <province name="SG"/>
+      <province name="SH"/>
+      <province name="SO"/>
+      <province name="SZ"/>
+      <province name="TG"/>
+      <province name="TI"/>
+      <province name="UR"/>
+      <province name="VD"/>
+      <province name="VS">
+        <mountain name="Monte Rosa" altitude="4634" latitude="45.9" longitude="7.9"/>
+      </province>
+      <province name="ZG"/>
+      <province name="ZH"/>
+      <river name="Aare"/>
+      <river name="Inn"/>
+      <river name="Rhein"/>
+      <river name="Ticino"/>
+      <river name="Reuss"/>
+      <river name="Rhone"/>
+      <river name="Limmat"/>
+    </country>
+    <country name="Belarus" population="10415973" blength="">
+      <organization name="Commonwealth of Independent States" establishedDate="08-DEC-91"/>
+      <province name="Belarus"/>
+    </country>
+    <country name="Latvia" population="2468982" blength="1078">
+      <province name="Latvia"/>
+    </country>
+    <country name="Lithuania" population="3646041" blength="1273">
+      <province name="Lithuania"/>
+    </country>
+    <country name="Poland" population="38642565" blength="2888">
+      <province name="Bialostockie"/>
+      <province name="Bialskopodlaskie"/>
+      <province name="Bielskie"/>
+      <province name="Bydgoskie"/>
+      <province name="Chelmskie"/>
+      <province name="Ciechanowskie"/>
+      <province name="Czestochowskie"/>
+      <province name="Elblaskie"/>
+      <province name="Gdanskie"/>
+      <province name="Gorzowskie"/>
+      <province name="Jeleniogorskie"/>
+      <province name="Kaliskie"/>
+      <province name="Katowickie"/>
+      <province name="Kieleckie"/>
+      <province name="Koninskie"/>
+      <province name="Koszalinskie"/>
+      <province name="Krakowskie"/>
+      <province name="Krosnienskie"/>
+      <province name="Legnickie"/>
+      <province name="Leszczynskie"/>
+      <province name="Lodzkie"/>
+      <province name="Lomzynskie"/>
+      <province name="Lubelskie"/>
+      <province name="Nowosadeckie"/>
+      <province name="Olsztynskie"/>
+      <province name="Opolskie"/>
+      <province name="Ostroleckie"/>
+      <province name="Pilskie"/>
+      <province name="Piotrkowskie"/>
+      <province name="Plockie"/>
+      <province name="Poznanskie"/>
+      <province name="Przemyskie"/>
+      <province name="Radomskie"/>
+      <province name="Rzeszowskie"/>
+      <province name="Siedleckie"/>
+      <province name="Sieradzkie"/>
+      <province name="Skierniewickie"/>
+      <province name="Slupskie"/>
+      <province name="Suwalskie"/>
+      <province name="Szczecinskie"/>
+      <province name="Tarnobrzeskie"/>
+      <province name="Tarnowskie"/>
+      <province name="Torunskie"/>
+      <province name="Walbrzyskie">
+        <mountain name="Schneekoppe" altitude="1602" latitude="50.7" longitude="15.7"/>
+      </province>
+      <province name="Warszwaskie"/>
+      <province name="Wloclawskie"/>
+      <province name="Wroclawskie"/>
+      <province name="Zamojskie"/>
+      <province name="Zielonogorskie"/>
+      <river name="Weichsel"/>
+    </country>
+    <country name="Ukraine" population="50864009" blength="">
+      <province name="Cherkaska"/>
+      <province name="Chernihivska"/>
+      <province name="Chernivetska"/>
+      <province name="Dnipropetrovska"/>
+      <province name="Donetska"/>
+      <province name="Ivano Frankivska"/>
+      <province name="Kharkivska"/>
+      <province name="Khersonska"/>
+      <province name="Khmelnytska"/>
+      <province name="Kirovohradska"/>
+      <province name="Krym"/>
+      <province name="Kyyivska"/>
+      <province name="Luhanska"/>
+      <province name="Lvivska"/>
+      <province name="Mykolayivska"/>
+      <province name="Odeska"/>
+      <province name="Poltavska"/>
+      <province name="Rivnenska"/>
+      <province name="Sumska"/>
+      <province name="Ternopilska"/>
+      <province name="Vinnytska"/>
+      <province name="Volynska"/>
+      <province name="Zakarpatska"/>
+      <province name="Zaporizka"/>
+      <province name="Zhytomyrska"/>
+      <river name="Theiss"/>
+      <river name="Pruth"/>
+      <river name="Dnjestr"/>
+    </country>
+    <country name="Russia" population="148178487" blength="19913">
+      <province name="Altayskiy kray"/>
+      <province name="Amurskaya oblast"/>
+      <province name="Arkhangelskaya oblast"/>
+      <province name="Astrakhanskaya oblast"/>
+      <province name="Belgorodskaya oblast"/>
+      <province name="Bryanskaya oblast"/>
+      <province name="Chechen Rep."/>
+      <province name="Chelyabinskaya oblast"/>
+      <province name="Chitinskaya oblast"/>
+      <province name="Chukotsky ao"/>
+      <province name="Chuvash Republic"/>
+      <province name="Irkutskaya oblast"/>
+      <province name="Ivanovskaya oblast"/>
+      <province name="Kabardino Balkar Rep.">
+        <mountain name="Elbrus" altitude="5642" latitude="43.21" longitude="42.26"/>
+      </province>
+      <province name="Kaliningradskaya oblast"/>
+      <province name="Kaluzhskaya oblast"/>
+      <province name="Kamchatskaya oblast">
+        <mountain name="Kljutschewskaja Sopka" altitude="4750" latitude="56.1" longitude="160.6"/>
+      </province>
+      <province name="Karachayevo Cherkessk Rep."/>
+      <province name="Kemerovskaya oblast"/>
+      <province name="Khabarovskiy kray"/>
+      <province name="Kirovskaya oblast"/>
+      <province name="Kostromskaya oblast"/>
+      <province name="Krasnodarsky kray"/>
+      <province name="Krasnoyarskiy kray"/>
+      <province name="Kurganskaya oblast"/>
+      <province name="Kurskaya oblast"/>
+      <province name="Leningradskaya oblast"/>
+      <province name="Lipetskaya oblast"/>
+      <province name="Magadanskaya oblast"/>
+      <province name="Moskovskaya oblast"/>
+      <province name="Moskva"/>
+      <province name="Murmanskaya oblast"/>
+      <province name="Nizhegorodskaya oblast"/>
+      <province name="Novgorodskaya oblast"/>
+      <province name="Novosibirskaya oblast"/>
+      <province name="Omskaya oblast"/>
+      <province name="Orenburgskaya oblast"/>
+      <province name="Orjolskaya oblast"/>
+      <province name="Penzenskaya oblast"/>
+      <province name="Permskaya oblast"/>
+      <province name="Primorsky kray"/>
+      <province name="Pskovskaya oblast"/>
+      <province name="Rep. of Adygeya"/>
+      <province name="Rep. of Altay">
+        <mountain name="Bjelucha" altitude="4506" latitude="49.48" longitude="86.4"/>
+      </province>
+      <province name="Rep. of Bashkortostan"/>
+      <province name="Rep. of Buryatiya">
+        <mountain name="Zhima" altitude="1276" latitude="53.15" longitude="107.4"/>
+      </province>
+      <province name="Rep. of Dagestan"/>
+      <province name="Rep. of Ingushetiya"/>
+      <province name="Rep. of Kalmykiya"/>
+      <province name="Rep. of Karelia"/>
+      <province name="Rep. of Khakassiya"/>
+      <province name="Rep. of Komi">
+        <mountain name="Narodnaja" altitude="1895" latitude="65" longitude="60.1"/>
+      </province>
+      <province name="Rep. of Mariy El"/>
+      <province name="Rep. of Mordovia"/>
+      <province name="Rep. of North Ossetiya">
+        <mountain name="Kasbek" altitude="5033" latitude="42.42" longitude="44.31"/>
+      </province>
+      <province name="Rep. of Sakha"/>
+      <province name="Rep. of Tatarstan"/>
+      <province name="Rep. of Tyva"/>
+      <province name="Rostovskaya oblast"/>
+      <province name="Ryazanskaya oblast"/>
+      <province name="Sakhalinskaya oblast"/>
+      <province name="Samarskaya oblast"/>
+      <province name="Sankt Peterburg"/>
+      <province name="Saratovskaya oblast"/>
+      <province name="Smolenskaya oblast"/>
+      <province name="Stavropolsky kray"/>
+      <province name="Sverdlovskaya oblast"/>
+      <province name="Tambovskaya oblast"/>
+      <province name="Tomskaya oblast"/>
+      <province name="Tulskaya oblast"/>
+      <province name="Tverskaya oblast"/>
+      <province name="Tyumenskaya oblast"/>
+      <province name="Udmurt Republic"/>
+      <province name="Ulyanovskaya oblast"/>
+      <province name="Vladimirskaya oblast"/>
+      <province name="Volgogradskaya oblast"/>
+      <province name="Vologodskaya oblast"/>
+      <province name="Voronezhskaya oblast"/>
+      <province name="Yaroslavskaya oblast"/>
+      <province name="Yevreyskaya avt. oblast"/>
+      <river name="Ob"/>
+      <river name="Amur"/>
+      <river name="Schilka"/>
+      <river name="Lena"/>
+      <river name="Chatanga"/>
+      <river name="Newa"/>
+      <river name="Swir"/>
+      <river name="Kolyma"/>
+      <river name="Tobol"/>
+      <river name="Oka"/>
+      <river name="Narva"/>
+      <river name="Katun"/>
+      <river name="Ural"/>
+      <river name="Angara"/>
+      <river name="Petschora"/>
+      <river name="Jenissej"/>
+      <river name="Dnepr"/>
+      <river name="Western Dwina"/>
+      <river name="Don"/>
+      <river name="Volga"/>
+      <river name="Northern Dwina"/>
+      <river name="Suchona"/>
+    </country>
+    <country name="Belgium" population="10170241" blength="">
+      <organization name="World Confederation of Labor" establishedDate="19-JUN-20"/>
+      <organization name="North Atlantic Treaty Organization" establishedDate="17-SEP-49"/>
+      <organization name="International Confederation of Free Trade Unions" establishedDate="01-DEC-49"/>
+      <organization name="Customs Cooperation Council" establishedDate="15-DEC-50"/>
+      <organization name="Western European Union" establishedDate="23-OCT-54"/>
+      <organization name="Benelux Economic Union" establishedDate="03-FEB-58"/>
+      <organization name="Group of 24" establishedDate="01-JAN-72"/>
+      <organization name="African, Caribbean, and Pacific Countries" establishedDate="01-APR-76"/>
+      <organization name="North Atlantic Cooperation Council" establishedDate="08-NOV-91"/>
+      <organization name="European Union" establishedDate="07-FEB-92"/>
+      <province name="Antwerp"/>
+      <province name="Brabant"/>
+      <province name="East Flanders"/>
+      <province name="Hainaut"/>
+      <province name="Liege"/>
+      <province name="Limburg"/>
+      <province name="Luxembourg"/>
+      <province name="Namur"/>
+      <province name="West Flanders"/>
+    </country>
+    <country name="Luxembourg" population="415870" blength="">
+      <organization name="European Investment Bank" establishedDate="25-MAR-57"/>
+      <province name="Luxembourg"/>
+    </country>
+    <country name="Netherlands" population="15568034" blength="">
+      <province name="Drenthe"/>
+      <province name="Flevoland"/>
+      <province name="Friesland"/>
+      <province name="Gelderland"/>
+      <province name="Groningen"/>
+      <province name="Limburg"/>
+      <province name="Noord Brabant"/>
+      <province name="Noord Holland"/>
+      <province name="Overijssel"/>
+      <province name="Utrecht"/>
+      <province name="Zeeland"/>
+      <province name="Zuid Holland"/>
+    </country>
+    <country name="Bosnia and Herzegovina" population="2656240" blength="">
+      <province name="Bosnia and Herzegovina"/>
+    </country>
+    <country name="Croatia" population="5004112" blength="2073">
+      <province name="Croatia"/>
+    </country>
+    <country name="Bulgaria" population="8612757" blength="">
+      <province name="Bulgaria">
+        <mountain name="Musala" altitude="2925" latitude="42.2" longitude="23.6"/>
+      </province>
+    </country>
+    <country name="Romania" population="21657162" blength="2508">
+      <province name="Alba"/>
+      <province name="Arad"/>
+      <province name="Arges">
+        <mountain name="Moldoveanu" altitude="2544" latitude="45.6" longitude="24.7"/>
+      </province>
+      <province name="Bacau"/>
+      <province name="Bihor"/>
+      <province name="Bistrita Nasaud"/>
+      <province name="Botosani"/>
+      <province name="Braila"/>
+      <province name="Brasov">
+        <mountain name="Moldoveanu" altitude="2544" latitude="45.6" longitude="24.7"/>
+      </province>
+      <province name="Bucuresti"/>
+      <province name="Buzau"/>
+      <province name="Calarasi"/>
+      <province name="Caras Severin"/>
+      <province name="Cluj"/>
+      <province name="Constanta"/>
+      <province name="Covasna"/>
+      <province name="Dimbovita"/>
+      <province name="Dolj"/>
+      <province name="Galati"/>
+      <province name="Giurgiu"/>
+      <province name="Gorj"/>
+      <province name="Harghita"/>
+      <province name="Hunedoara"/>
+      <province name="Ialomita"/>
+      <province name="Iasi"/>
+      <province name="Maramures"/>
+      <province name="Mehedinti"/>
+      <province name="Mures"/>
+      <province name="Neamt"/>
+      <province name="Olt"/>
+      <province name="Prahova"/>
+      <province name="Salaj"/>
+      <province name="Satu Mare"/>
+      <province name="Sibiu">
+        <mountain name="Moldoveanu" altitude="2544" latitude="45.6" longitude="24.7"/>
+      </province>
+      <province name="Suceava"/>
+      <province name="Teleorman"/>
+      <province name="Timis"/>
+      <province name="Tulcea"/>
+      <province name="Vaslui"/>
+      <province name="Vilcea"/>
+      <province name="Vrancea"/>
+      <river name="Olt"/>
+    </country>
+    <country name="Turkey" population="62484478" blength="">
+      <province name="Adana"/>
+      <province name="Adiyaman"/>
+      <province name="Afyon"/>
+      <province name="Agri">
+        <mountain name="Ararat" altitude="5165" latitude="39.7" longitude="44.3"/>
+      </province>
+      <province name="Aksaray"/>
+      <province name="Amasya"/>
+      <province name="Ankara"/>
+      <province name="Antalya"/>
+      <province name="Artvin"/>
+      <province name="Aydin"/>
+      <province name="Balikesir"/>
+      <province name="Batman"/>
+      <province name="Bayburt"/>
+      <province name="Bilecik"/>
+      <province name="Bingol"/>
+      <province name="Bitlis"/>
+      <province name="Bolu"/>
+      <province name="Burdur"/>
+      <province name="Bursa"/>
+      <province name="Canakkale"/>
+      <province name="Cankiri"/>
+      <province name="Corum"/>
+      <province name="Denizli"/>
+      <province name="Diyarbakir"/>
+      <province name="Edirne"/>
+      <province name="Elazig"/>
+      <province name="Erzincan"/>
+      <province name="Erzurum"/>
+      <province name="Eskisehir"/>
+      <province name="Gaziantep"/>
+      <province name="Giresun"/>
+      <province name="Gumushane"/>
+      <province name="Hakkari"/>
+      <province name="Hatay"/>
+      <province name="Icel"/>
+      <province name="Isparta"/>
+      <province name="Istanbul"/>
+      <province name="Izmir"/>
+      <province name="Karaman"/>
+      <province name="Karamanmaras"/>
+      <province name="Kars"/>
+      <province name="Kastamonu"/>
+      <province name="Kayseri"/>
+      <province name="Kirikkale"/>
+      <province name="Kirklareli"/>
+      <province name="Kirsehir"/>
+      <province name="Kocaeli"/>
+      <province name="Konya"/>
+      <province name="Kutahya"/>
+      <province name="Malatya"/>
+      <province name="Manisa"/>
+      <province name="Mardin"/>
+      <province name="Mugla"/>
+      <province name="Mus"/>
+      <province name="Nevsehir"/>
+      <province name="Nigde">
+        <mountain name="Demirkazik" altitude="3756" latitude="37.8" longitude="35.2"/>
+      </province>
+      <province name="Ordu"/>
+      <province name="Rize"/>
+      <province name="Sakarya"/>
+      <province name="Samsun"/>
+      <province name="Sanliurfa"/>
+      <province name="Siirt"/>
+      <province name="Sinop"/>
+      <province name="Sirnak"/>
+      <province name="Sivas"/>
+      <province name="Tekirdag"/>
+      <province name="Tokat"/>
+      <province name="Trabzon"/>
+      <province name="Tunceli"/>
+      <province name="Usak"/>
+      <province name="Van"/>
+      <province name="Yozgat"/>
+      <province name="Zonguldak"/>
+      <river name="Murat"/>
+      <river name="Tigris"/>
+      <river name="Karasu"/>
+      <river name="Kura"/>
+      <river name="Euphrat"/>
+    </country>
+    <country name="Denmark" population="5249632" blength="">
+      <province name="Denmark"/>
+    </country>
+    <country name="Estonia" population="1459428" blength="">
+      <province name="Estonia"/>
+    </country>
+    <country name="Faroe Islands" population="43857" blength="">
+      <province name="Faroe Islands"/>
+    </country>
+    <country name="Finland" population="5105230" blength="">
+      <organization name="Nordic Investment Bank" establishedDate="04-DEC-75"/>
+      <province name="Aland"/>
+      <province name="Haeme"/>
+      <province name="Kuopio"/>
+      <province name="Kymi"/>
+      <province name="Lappia">
+        <mountain name="Haltiatunturi" altitude="1328" latitude="67" longitude="21.4"/>
+      </province>
+      <province name="Mikkeli"/>
+      <province name="Oulu"/>
+      <province name="Pohjols-Karjala"/>
+      <province name="Suomi"/>
+      <province name="Turku-Pori"/>
+      <province name="Uusimaa"/>
+      <province name="Vaasa"/>
+      <river name="Kymijoki"/>
+      <river name="Vuoksi"/>
+      <river name="Kemijoki"/>
+      <river name="Ounasjoki"/>
+      <river name="Paatsjoki"/>
+      <river name="Oulujoki"/>
+      <river name="Kokemaeenjoki"/>
+    </country>
+    <country name="Norway" population="4383807" blength="">
+      <province name="Akershus"/>
+      <province name="Aust Agder"/>
+      <province name="Buskerud"/>
+      <province name="Finnmark"/>
+      <province name="Hedmark"/>
+      <province name="Hordaland">
+        <mountain name="Joekul" altitude="1876" latitude="60.3" longitude="7.2"/>
+      </province>
+      <province name="Moere og Romsdal"/>
+      <province name="Nord Trondelag"/>
+      <province name="Nordland">
+        <mountain name="Sulitjelma" altitude="1914" latitude="67.1" longitude="16.2"/>
+      </province>
+      <province name="Oestfold"/>
+      <province name="Oppland">
+        <mountain name="Galdhoeppig" altitude="2469" latitude="61.4" longitude="8"/>
+      </province>
+      <province name="Oslo"/>
+      <province name="Rogaland"/>
+      <province name="Soer Trondelag"/>
+      <province name="Sogn og Fjordane">
+        <mountain name="Jostedalsbre" altitude="2083" latitude="61.4" longitude="5.5"/>
+      </province>
+      <province name="Telemark"/>
+      <province name="Troms"/>
+      <province name="Vest Agder"/>
+      <province name="Vestfold"/>
+      <river name="Klaraelv"/>
+      <river name="Lagen"/>
+      <river name="Glomma"/>
+    </country>
+    <country name="Sweden" population="8900954" blength="2205">
+      <organization name="Nordic Council" establishedDate="16-MAR-52"/>
+      <province name="Alvsborg"/>
+      <province name="Blekinge"/>
+      <province name="Dalarna"/>
+      <province name="Gavleborg"/>
+      <province name="Goteborg och Bohus"/>
+      <province name="Gotland"/>
+      <province name="Halland"/>
+      <province name="Jamtland"/>
+      <province name="Jonkoping"/>
+      <province name="Kalmar"/>
+      <province name="Kristianstad"/>
+      <province name="Kronoberg"/>
+      <province name="Malmohus"/>
+      <province name="Norrbotten">
+        <mountain name="Kebnekaise" altitude="2114" latitude="67.5" longitude="18.3"/>
+      </province>
+      <province name="Orebro"/>
+      <province name="Ostergotland"/>
+      <province name="Skaraborg"/>
+      <province name="Sodermanland"/>
+      <province name="Stockholm"/>
+      <province name="Uppsala"/>
+      <province name="Varmland"/>
+      <province name="Vasterbotten"/>
+      <province name="Vasternorrland"/>
+      <province name="Vastmanland"/>
+      <river name="Goetaaelv"/>
+      <river name="Dalaelv"/>
+      <river name="Oesterdalaelv"/>
+      <river name="Vaesterdalaelv"/>
+      <river name="Umeaelv"/>
+    </country>
+    <country name="Monaco" population="31719" blength="">
+      <province name="Monaco"/>
+    </country>
+    <country name="Gibraltar" population="28765" blength="">
+      <province name="Gibraltar"/>
+    </country>
+    <country name="Guernsey" population="62920" blength="">
+      <province name="Guernsey"/>
+    </country>
+    <country name="Holy See" population="840" blength="">
+      <province name="Holy See"/>
+    </country>
+    <country name="Iceland" population="270292" blength="">
+      <province name="Iceland">
+        <mountain name="Oeraefajoekull" altitude="2119" latitude="64.1" longitude="-17"/>
+      </province>
+      <river name="Joekulsa a Fjoellum"/>
+      <river name="Thjorsa"/>
+    </country>
+    <country name="Ireland" population="3566833" blength="">
+      <province name="Ireland"/>
+    </country>
+    <country name="San Marino" population="24521" blength="">
+      <province name="San Marino"/>
+    </country>
+    <country name="Jersey" population="87848" blength="">
+      <province name="Jersey"/>
+    </country>
+    <country name="Malta" population="375576" blength="">
+      <province name="Malta"/>
+    </country>
+    <country name="Man" population="73837" blength="">
+      <province name="Man"/>
+    </country>
+    <country name="Moldova" population="4463847" blength="">
+      <province name="Moldova"/>
+    </country>
+    <country name="Portugal" population="9865114" blength="">
+      <province name="Algarve"/>
+      <province name="Aveiro"/>
+      <province name="Azores">
+        <mountain name="Pico" altitude="2351" latitude="38.5" longitude="-28.4"/>
+      </province>
+      <province name="Beja"/>
+      <province name="Braga"/>
+      <province name="Braganca"/>
+      <province name="Castelo Branco"/>
+      <province name="Coimbra"/>
+      <province name="Evora"/>
+      <province name="Guarda">
+        <mountain name="Torre de Estrela" altitude="1993" latitude="40.3" longitude="-7.6"/>
+      </province>
+      <province name="Leiria"/>
+      <province name="Lisbon"/>
+      <province name="Madeira">
+        <mountain name="Pico Ruivo" altitude="1861" latitude="31" longitude="-16"/>
+      </province>
+      <province name="Portalegre"/>
+      <province name="Porto"/>
+      <province name="Santarem"/>
+      <province name="Setubal"/>
+      <province name="Viana do Castelo"/>
+      <province name="Vila Real"/>
+      <province name="Viseu"/>
+    </country>
+    <country name="Svalbard" population="2116" blength="">
+      <province name="Svalbard"/>
+    </country>
+    <country name="United Kingdom" population="58489975" blength="">
+      <organization name="Commonwealth" establishedDate="31-DEC-31"/>
+      <organization name="International Maritime Organization" establishedDate="17-MAR-58"/>
+      <organization name="International Mobile Satellite Organization" establishedDate="03-SEP-76"/>
+      <organization name="European Bank for Reconstruction and Development" establishedDate="15-APR-91"/>
+      <province name="Aberconwy and Colwyn"/>
+      <province name="Anglesey"/>
+      <province name="Avon"/>
+      <province name="Bedfordshire"/>
+      <province name="Berkshire"/>
+      <province name="Blaenau Gwent"/>
+      <province name="Borders"/>
+      <province name="Bridgend"/>
+      <province name="Buckinghamshire"/>
+      <province name="Caerphilly"/>
+      <province name="Cambridgeshire"/>
+      <province name="Cardiff"/>
+      <province name="Carmarthenshire"/>
+      <province name="Central"/>
+      <province name="Ceredigion"/>
+      <province name="Cheshire"/>
+      <province name="Cleveland"/>
+      <province name="Cornwall"/>
+      <province name="Cumbria"/>
+      <province name="Denbighshire"/>
+      <province name="Derbyshire"/>
+      <province name="Devon"/>
+      <province name="Dorset"/>
+      <province name="Dumfries and Galloway"/>
+      <province name="Durham"/>
+      <province name="East Sussex"/>
+      <province name="Essex"/>
+      <province name="Fife"/>
+      <province name="Flintshire"/>
+      <province name="Gloucestershire"/>
+      <province name="Grampian"/>
+      <province name="Greater London"/>
+      <province name="Greater Manchester"/>
+      <province name="Gwynedd"/>
+      <province name="Hampshire"/>
+      <province name="Hereford and Worcester"/>
+      <province name="Hertfordshire"/>
+      <province name="Highland">
+        <mountain name="Ben Nevis" altitude="1344" latitude="56.8" longitude="-5"/>
+      </province>
+      <province name="Humberside"/>
+      <province name="Isle of Wight"/>
+      <province name="Kent"/>
+      <province name="Lancashire"/>
+      <province name="Leicestershire"/>
+      <province name="Lincolnshire"/>
+      <province name="Lothian"/>
+      <province name="Merseyside"/>
+      <province name="Merthyr Tydfil"/>
+      <province name="Monmouthshire"/>
+      <province name="Neath and Port Talbot"/>
+      <province name="Newport"/>
+      <province name="Norfolk"/>
+      <province name="North Yorkshire"/>
+      <province name="Northamptonshire"/>
+      <province name="Northern Ireland"/>
+      <province name="Northumberland"/>
+      <province name="Nottinghamshire"/>
+      <province name="Orkneys"/>
+      <province name="Outer Hebrides"/>
+      <province name="Oxfordshire"/>
+      <province name="Pembrokeshire"/>
+      <province name="Powys"/>
+      <province name="Rhondda Cynon Taff"/>
+      <province name="Shetland"/>
+      <province name="Shropshire"/>
+      <province name="Somerset"/>
+      <province name="South Yorkshire"/>
+      <province name="Staffordshire"/>
+      <province name="Strathclyde"/>
+      <province name="Suffolk"/>
+      <province name="Surrey"/>
+      <province name="Swansea"/>
+      <province name="Tayside"/>
+      <province name="Torfaen"/>
+      <province name="Tyne and Wear"/>
+      <province name="Vale of Glamorgan"/>
+      <province name="Warwickshire"/>
+      <province name="West Midlands"/>
+      <province name="West Sussex"/>
+      <province name="West Yorkshire"/>
+      <province name="Wiltshire"/>
+      <province name="Wrexham"/>
+      <river name="Thames"/>
+    </country>
+    <country name="Cyprus" population="744609" blength="">
+      <province name="Cyprus">
+        <mountain name="Olympos" altitude="1952" latitude="34.9" longitude="32.85"/>
+      </province>
+    </country>
+  </continent>
+</ex3>
+

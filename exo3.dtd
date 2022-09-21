@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT ex3 (continent+)>
+ 
+<!ELEMENT continent (country+)>
+<!ATTLIST continent name CDATA #REQUIRED>
+ 
+<!ELEMENT country (organization*, province+, river*)>
+<!ATTLIST country name CDATA #REQUIRED
+					population CDATA #REQUIRED
+					blength CDATA #REQUIRED>
+
+<!ELEMENT organization EMPTY>
+<!ATTLIST organization name CDATA #REQUIRED
+						establishedDate CDATA #REQUIRED>
+						
+<!ELEMENT province (mountain*)>
+<!ATTLIST province name CDATA #REQUIRED>
+
+<!ELEMENT mountain EMPTY>
+<!ATTLIST mountain name CDATA #REQUIRED
+					altitude CDATA #REQUIRED
+					latitude CDATA #REQUIRED
+					longitude CDATA #REQUIRED>
+
+<!ELEMENT river EMPTY>
+<!ATTLIST river name CDATA #REQUIRED>
